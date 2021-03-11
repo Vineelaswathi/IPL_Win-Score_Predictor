@@ -1,0 +1,593 @@
+match_id,series_id,match_details,result,Team1,Score1,Team2,Score2,date,venue,round,home,away,winner,win_by_runs,win_by_wickets,balls_remaining,innings1,innings1_runs,innings1_wickets,innings1_overs_batted,innings1_overs,innings2,innings2_runs,innings2_wickets,innings2_overs_batted,innings2_overs
+335982,313494,"1st match:RCB v KKR at Bangalore- Apr 18, 2008",KKR won by 140 runs,KKR,222,RCB,82,18/04/08,Bangalore,1st match,RCB,KKR,KKR,140,,,KKR,222,3,20,20,RCB,82,10,15.1,20
+335983,313494,"2nd match:KXIP v CSK at Mohali- Apr 19, 2008",CSK won by 33 runs,CSK,240,KXIP,207,19/04/08,Mohali,2nd match,KXIP,CSK,CSK,33,,,CSK,240,5,20,20,KXIP,207,4,20,20
+335984,313494,"3rd match:DD v RR at Delhi- Apr 19, 2008",DD won by 9 wickets (with 29 balls remaining),RR,129,DD,132,19/04/08,Delhi,3rd match,DD,RR,DD,,9,29,RR,129,8,20,20,DD,132,1,15.1,20
+335986,313494,"4th match:KKR v DC at Kolkata- Apr 20, 2008",KKR won by 5 wickets (with 6 balls remaining),DC,110,KKR,112,20/04/08,Kolkata,4th match,KKR,DC,KKR,,5,6,DC,110,10,18.4,20,KKR,112,5,19,20
+335985,313494,"5th match:MI v RCB at Mumbai- Apr 20, 2008",RCB won by 5 wickets (with 2 balls remaining),MI,165,RCB,166,20/04/08,Mumbai,5th match,MI,RCB,RCB,,5,2,MI,165,6,20,20,RCB,166,5,19.4,20
+335987,313494,"6th match:RR v KXIP at Jaipur- Apr 21, 2008",RR won by 6 wickets (with 11 balls remaining),KXIP,166,RR,168,21/04/08,Jaipur,6th match,RR,KXIP,RR,,6,11,KXIP,166,8,20,20,RR,168,4,18.1,20
+335988,313494,"7th match:DC v DD at Hyderabad (Deccan)- Apr 22, 2008",DD won by 9 wickets (with 42 balls remaining),DC,142,DD,143,22/04/08,Hyderabad (Deccan),7th match,DC,DD,DD,,9,42,DC,142,8,20,20,DD,143,1,13,20
+335989,313494,"8th match:CSK v MI at Chennai- Apr 23, 2008",CSK won by 6 runs,CSK,208,MI,202,23/04/08,Chennai,8th match,CSK,MI,CSK,6,,,CSK,208,5,20,20,MI,202,7,20,20
+335990,313494,"9th match:DC v RR at Hyderabad (Deccan)- Apr 24, 2008",RR won by 3 wickets (with 1 ball remaining),DC,214,RR,217,24/04/08,Hyderabad (Deccan),9th match,DC,RR,RR,,3,1,DC,214,5,20,20,RR,217,7,19.5,20
+335991,313494,"10th match:KXIP v MI at Mohali- Apr 25, 2008",KXIP won by 66 runs,KXIP,182,MI,116,25/04/08,Mohali,10th match,KXIP,MI,KXIP,66,,,KXIP,182,10,20,20,MI,116,9,20,20
+335993,313494,"11th match:CSK v KKR at Chennai- Apr 26, 2008",CSK won by 9 wickets (with 18 balls remaining),KKR,147,CSK,152,26/04/08,Chennai,11th match,CSK,KKR,CSK,,9,18,KKR,147,9,20,20,CSK,152,1,17,20
+335992,313494,"12th match:RCB v RR at Bangalore- Apr 26, 2008",RR won by 7 wickets (with 17 balls remaining),RCB,135,RR,138,26/04/08,Bangalore,12th match,RCB,RR,RR,,7,17,RCB,135,8,20,20,RR,138,3,17.1,20
+335995,313494,"13th match:KXIP v DD at Mohali- Apr 27, 2008",KXIP won by 4 wickets (with 3 balls remaining),DD,158,KXIP,162,27/04/08,Mohali,13th match,KXIP,DD,KXIP,,4,3,DD,158,8,20,20,KXIP,162,6,19.3,20
+335994,313494,"14th match:MI v DC at Mumbai- Apr 27, 2008",DC won by 10 wickets (with 48 balls remaining),MI,154,DC,155,27/04/08,Mumbai,14th match,MI,DC,DC,,10,48,MI,154,7,20,20,DC,155,0,12,20
+335996,313494,"15th match:RCB v CSK at Bangalore- Apr 28, 2008",CSK won by 13 runs,CSK,178,RCB,165,28/04/08,Bangalore,15th match,RCB,CSK,CSK,13,,,CSK,178,5,20,20,RCB,165,10,19.4,20
+335997,313494,"16th match:KKR v MI at Kolkata- Apr 29, 2008",MI won by 7 wickets (with 8 balls remaining),KKR,137,MI,138,29/04/08,Kolkata,16th match,KKR,MI,MI,,7,8,KKR,137,8,20,20,MI,138,3,18.4,20
+335998,313494,"17th match:DD v RCB at Delhi- Apr 30, 2008",DD won by 10 runs,DD,191,RCB,181,30/04/08,Delhi,17th match,DD,RCB,DD,10,,,DD,191,5,20,20,RCB,181,5,20,20
+336000,313494,"18th match:RR v KKR at Jaipur- May 1, 2008",RR won by 45 runs,RR,196,KKR,151,1/5/2008,Jaipur,18th match,RR,KKR,RR,45,,,RR,196,7,20,20,KKR,151,10,19.1,20
+335999,313494,"19th match:DC v KXIP at Hyderabad (Deccan)- May 1, 2008",KXIP won by 7 wickets (with 7 balls remaining),DC,164,KXIP,167,1/5/2008,Hyderabad (Deccan),19th match,DC,KXIP,KXIP,,7,7,DC,164,8,20,20,KXIP,167,3,18.5,20
+336001,313494,"20th match:CSK v DD at Chennai- May 2, 2008",DD won by 8 wickets (with 6 balls remaining),CSK,169,DD,172,2/5/2008,Chennai,20th match,CSK,DD,DD,,8,6,CSK,169,6,20,20,DD,172,2,19,20
+336034,313494,"21st match:RCB v DC at Bangalore- May 3, 2008",RCB won by 3 runs,RCB,156,DC,153,3/5/2008,Bangalore,21st match,RCB,DC,RCB,3,,,RCB,156,8,20,20,DC,153,6,20,20
+336003,313494,"22nd match:KXIP v KKR at Mohali- May 3, 2008",KXIP won by 9 runs,KXIP,178,KKR,169,3/5/2008,Mohali,22nd match,KXIP,KKR,KXIP,9,,,KXIP,178,6,20,20,KKR,169,6,20,20
+336004,313494,"23rd match:MI v DD at Mumbai- May 4, 2008",MI won by 29 runs,MI,162,DD,133,4/5/2008,Mumbai,23rd match,MI,DD,MI,29,,,MI,162,8,20,20,DD,133,10,18.5,20
+336005,313494,"24th match:RR v CSK at Jaipur- May 4, 2008",RR won by 8 wickets (with 34 balls remaining),CSK,109,RR,110,4/5/2008,Jaipur,24th match,RR,CSK,RR,,8,34,CSK,109,10,19,20,RR,110,2,14.2,20
+336006,313494,"25th match:RCB v KXIP at Bangalore- May 5, 2008",KXIP won by 6 wickets (with 10 balls remaining),RCB,126,KXIP,127,5/5/2008,Bangalore,25th match,RCB,KXIP,KXIP,,6,10,RCB,126,10,19.2,20,KXIP,127,4,18.2,20
+336007,313494,"26th match:CSK v DC at Chennai- May 6, 2008",DC won by 7 wickets (with 12 balls remaining),CSK,144,DC,148,6/5/2008,Chennai,26th match,CSK,DC,DC,,7,12,CSK,144,7,20,20,DC,148,3,18,20
+336008,313494,"27th match:MI v RR at Mumbai- May 7, 2008",MI won by 7 wickets (with 29 balls remaining),RR,103,MI,104,7/5/2008,Mumbai,27th match,MI,RR,MI,,7,29,RR,103,10,16.2,20,MI,104,3,15.1,20
+336009,313494,"28th match:DD v CSK at Delhi- May 8, 2008",CSK won by 4 wickets (with 0 balls remaining),DD,187,CSK,188,8/5/2008,Delhi,28th match,DD,CSK,CSK,,4,0,DD,187,5,20,20,CSK,188,6,20,20
+336010,313494,"29th match:KKR v RCB at Kolkata- May 8, 2008",KKR won by 5 runs,KKR,129,RCB,124,8/5/2008,Kolkata,29th match,KKR,RCB,KKR,5,,,KKR,129,7,16,16,RCB,124,4,16,16
+336011,313494,"30th match:RR v DC at Jaipur- May 9, 2008",RR won by 8 wickets (with 24 balls remaining),DC,140,RR,141,9/5/2008,Jaipur,30th match,RR,DC,RR,,8,24,DC,140,8,20,20,RR,141,2,16,20
+336013,313494,"31st match:CSK v KXIP at Chennai- May 10, 2008",CSK won by 18 runs,CSK,181,KXIP,163,10/5/2008,Chennai,31st match,CSK,KXIP,CSK,18,,,CSK,181,4,20,20,KXIP,163,9,20,20
+336014,313494,"32nd match:DC v KKR at Hyderabad (Deccan)- May 11, 2008",KKR won by 23 runs,KKR,204,DC,181,11/5/2008,Hyderabad (Deccan),32nd match,DC,KKR,KKR,23,,,KKR,204,4,20,20,DC,181,7,20,20
+336015,313494,"33rd match:RR v DD at Jaipur- May 11, 2008",RR won by 3 wickets (with 5 balls remaining),DD,156,RR,159,11/5/2008,Jaipur,33rd match,RR,DD,RR,,3,5,DD,156,7,20,20,RR,159,7,19.1,20
+336016,313494,"34th match:KXIP v RCB at Mohali- May 12, 2008",KXIP won by 9 wickets (with 26 balls remaining),RCB,143,KXIP,144,12/5/2008,Mohali,34th match,KXIP,RCB,KXIP,,9,26,RCB,143,8,20,20,KXIP,144,1,15.4,20
+336017,313494,"35th match:KKR v DD at Kolkata- May 13, 2008",KKR won by 23 runs,KKR,133,DD,110,13/05/08,Kolkata,35th match,KKR,DD,KKR,23,,,KKR,133,6,20,20,DD,110,10,17.5,20
+336018,313494,"36th match:MI v CSK at Mumbai- May 14, 2008",MI won by 9 wickets (with 37 balls remaining),CSK,156,MI,158,14/05/08,Mumbai,36th match,MI,CSK,MI,,9,37,CSK,156,6,20,20,MI,158,1,13.5,20
+336020,313494,"37th match:DD v DC at Delhi- May 15, 2008",DD won by 12 runs,DD,194,DC,182,15/05/08,Delhi,37th match,DD,DC,DD,12,,,DD,194,4,20,20,DC,182,9,20,20
+336021,313494,"38th match:MI v KKR at Mumbai- May 16, 2008",MI won by 8 wickets (with 87 balls remaining),KKR,67,MI,68,16/05/08,Mumbai,38th match,MI,KKR,MI,,8,87,KKR,67,10,15.2,20,MI,68,2,5.3,20
+336023,313494,"39th match:RR v RCB at Jaipur- May 17, 2008",RR won by 65 runs,RR,197,RCB,132,17/05/08,Jaipur,39th match,RR,RCB,RR,65,,,RR,197,1,20,20,RCB,132,9,20,20
+336022,313494,"40th match:DD v KXIP at Delhi- May 17, 2008",KXIP won by 6 runs (D/L method),DD,118,KXIP,94,17/05/08,Delhi,40th match,DD,KXIP,KXIP,6,,,DD,118,4,11,11,KXIP,94,3,8,8
+336025,313494,"41st match:KKR v CSK at Kolkata- May 18, 2008",CSK won by 3 runs (D/L method),KKR,149,CSK,55,18/05/08,Kolkata,41st match,KKR,CSK,CSK,3,,,KKR,149,5,20,20,CSK,55,0,8,8
+336024,313494,"42nd match:DC v MI at Hyderabad (Deccan)- May 18, 2008",MI won by 25 runs,MI,178,DC,153,18/05/08,Hyderabad (Deccan),42nd match,DC,MI,MI,25,,,MI,178,7,20,20,DC,153,7,20,20
+336026,313494,"43rd match:RCB v DD at Bangalore- May 19, 2008",DD won by 5 wickets (with 10 balls remaining),RCB,154,DD,158,19/05/08,Bangalore,43rd match,RCB,DD,DD,,5,10,RCB,154,7,20,20,DD,158,5,18.2,20
+336027,313494,"44th match:KKR v RR at Kolkata- May 20, 2008",RR won by 6 wickets (with 21 balls remaining),KKR,147,RR,150,20/05/08,Kolkata,44th match,KKR,RR,RR,,6,21,KKR,147,8,20,20,RR,150,4,16.3,20
+336028,313494,"45th match:MI v KXIP at Mumbai- May 21, 2008",KXIP won by 1 run,KXIP,189,MI,188,21/05/08,Mumbai,45th match,MI,KXIP,KXIP,1,,,KXIP,189,4,20,20,MI,188,10,20,20
+336029,313494,"46th match:CSK v RCB at Chennai- May 21, 2008",RCB won by 14 runs,RCB,126,CSK,112,21/05/08,Chennai,46th match,CSK,RCB,RCB,14,,,RCB,126,8,20,20,CSK,112,8,20,20
+336030,313494,"47th match:DD v KKR at Delhi- May 22, 2008",Match abandoned without a ball bowled,,,,,22/05/08,Delhi,47th match,DD,KKR,Match abandoned without a ball bowled,,,,,,,,,,,,,
+336031,313494,"48th match:KXIP v DC at Mohali- May 23, 2008",KXIP won by 6 wickets (with 3 balls remaining),DC,175,KXIP,178,23/05/08,Mohali,48th match,KXIP,DC,KXIP,,6,3,DC,175,4,20,20,KXIP,178,4,19.3,20
+336033,313494,"49th match:CSK v RR at Chennai- May 24, 2008",RR won by 10 runs,RR,211,CSK,201,24/05/08,Chennai,49th match,CSK,RR,RR,10,,,RR,211,5,20,20,CSK,201,7,20,20
+336032,313494,"50th match:DD v MI at Delhi- May 24, 2008",DD won by 5 wickets (with 1 ball remaining),MI,176,DD,179,24/05/08,Delhi,50th match,DD,MI,DD,,5,1,MI,176,8,20,20,DD,179,5,19.5,20
+336002,313494,"51st match:DC v RCB at Hyderabad (Deccan)- May 25, 2008",RCB won by 5 wickets (with 6 balls remaining),DC,165,RCB,171,25/05/08,Hyderabad (Deccan),51st match,DC,RCB,RCB,,5,6,DC,165,10,20,20,RCB,171,5,19,20
+336035,313494,"52nd match:KKR v KXIP at Kolkata- May 25, 2008",KKR won by 3 wickets (with 2 balls remaining),KXIP,174,KKR,175,25/05/08,Kolkata,52nd match,KKR,KXIP,KKR,,3,2,KXIP,174,6,20,20,KKR,175,7,19.4,20
+336036,313494,"53rd match:RR v MI at Jaipur- May 26, 2008",RR won by 5 wickets (with 0 balls remaining),MI,145,RR,146,26/05/08,Jaipur,53rd match,RR,MI,RR,,5,0,MI,145,7,20,20,RR,146,5,20,20
+336037,313494,"54th match:DC v CSK at Hyderabad (Deccan)- May 27, 2008",CSK won by 7 wickets (with 4 balls remaining),DC,147,CSK,148,27/05/08,Hyderabad (Deccan),54th match,DC,CSK,CSK,,7,4,DC,147,8,20,20,CSK,148,3,19.2,20
+336012,313494,"55th match:RCB v MI at Bangalore- May 28, 2008",MI won by 9 wickets (with 12 balls remaining),RCB,122,MI,126,28/05/08,Bangalore,55th match,RCB,MI,MI,,9,12,RCB,122,9,18,18,MI,126,1,16,18
+336019,313494,"56th match:KXIP v RR at Mohali- May 28, 2008",KXIP won by 41 runs,KXIP,221,RR,180,28/05/08,Mohali,56th match,KXIP,RR,KXIP,41,,,KXIP,221,3,20,20,RR,180,7,20,20
+336038,313494,"1st Semi-Final:DD v RR at Mumbai- May 30, 2008",RR won by 105 runs,RR,192,DD,87,30/05/08,Mumbai,1st Semi-Final,DD,RR,RR,105,,,RR,192,9,20,20,DD,87,10,16.1,20
+336039,313494,"2nd Semi-Final:CSK v KXIP at Mumbai- May 31, 2008",CSK won by 9 wickets (with 31 balls remaining),KXIP,112,CSK,116,31/05/08,Mumbai,2nd Semi-Final,CSK,KXIP,CSK,,9,31,KXIP,112,8,20,20,CSK,116,1,14.5,20
+336040,313494,"Final:CSK v RR at Mumbai- Jun 1, 2008",RR won by 3 wickets (with 0 balls remaining),CSK,163,RR,164,1/6/2008,Mumbai,Final,CSK,RR,RR,,3,0,CSK,163,5,20,20,RR,164,7,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+392181,374163,"1st match:CSK v MI at Cape Town- Apr 18, 2009",MI won by 19 runs,MI,165,CSK,146,18/04/09,Cape Town,1st match,CSK,MI,MI,19,,,MI,165,7,20,20,CSK,146,7,20,20
+392182,374163,"2nd match:RCB v RR at Cape Town- Apr 18, 2009",RCB won by 75 runs,RCB,133,RR,58,18/04/09,Cape Town,2nd match,RCB,RR,RCB,75,,,RCB,133,8,20,20,RR,58,10,15.1,20
+392183,374163,"3rd match:DD v KXIP at Cape Town- Apr 19, 2009",DD won by 10 wickets (with 7 balls remaining) (D/L method),KXIP,104,DD,58,19/04/09,Cape Town,3rd match,DD,KXIP,DD,,10,7,KXIP,104,7,12,12,DD,58,0,4.5,6
+392184,374163,"4th match:DC v KKR at Cape Town- Apr 19, 2009",DC won by 8 wickets (with 41 balls remaining),KKR,101,DC,104,19/04/09,Cape Town,4th match,DC,KKR,DC,,8,41,KKR,101,10,19.4,20,DC,104,2,13.1,20
+392185,374163,"5th match:RCB v CSK at Port Elizabeth- Apr 20, 2009",CSK won by 92 runs,CSK,179,RCB,87,20/04/09,Port Elizabeth,5th match,RCB,CSK,CSK,92,,,CSK,179,5,20,20,RCB,87,10,15.2,20
+392186,374163,"6th match:KXIP v KKR at Durban- Apr 21, 2009",KKR won by 11 runs (D/L method),KXIP,158,KKR,79,21/04/09,Durban,6th match,KXIP,KKR,KKR,11,,,KXIP,158,6,20,20,KKR,79,1,9.2,9.2
+392187,374163,"7th match:MI v RR at Durban- Apr 21, 2009",Match abandoned without a ball bowled,,,,,21/04/09,Durban,7th match,MI,RR,Match abandoned without a ball bowled,,,,,,,,,,,,,
+392188,374163,"8th match:RCB v DC at Cape Town- Apr 22, 2009",DC won by 24 runs,DC,184,RCB,160,22/04/09,Cape Town,8th match,RCB,DC,DC,24,,,DC,184,6,20,20,RCB,160,8,20,20
+392189,374163,"9th match:CSK v DD at Durban- Apr 23, 2009",DD won by 9 runs,DD,189,CSK,180,23/04/09,Durban,9th match,CSK,DD,DD,9,,,DD,189,5,20,20,CSK,180,9,20,20
+392190,374163,"10th match:KKR v RR at Cape Town- Apr 23, 2009",Match tied (RR won the one-over eliminator),RR,150,KKR,150,23/04/09,Cape Town,10th match,KKR,RR,RR,,,,RR,150,6,20,20,KKR,150,8,20,20
+392191,374163,"11th match:RCB v KXIP at Durban- Apr 24, 2009",KXIP won by 7 wickets (with 6 balls remaining),RCB,168,KXIP,173,24/04/09,Durban,11th match,RCB,KXIP,KXIP,,7,6,RCB,168,9,20,20,KXIP,173,3,19,20
+392192,374163,"12th match:DC v MI at Durban- Apr 25, 2009",DC won by 12 runs,DC,168,MI,156,25/04/09,Durban,12th match,DC,MI,DC,12,,,DC,168,9,20,20,MI,156,7,20,20
+392193,374163,"13th match:CSK v KKR at Cape Town- Apr 25, 2009",Match abandoned without a ball bowled,,,,,25/04/09,Cape Town,13th match,CSK,KKR,Match abandoned without a ball bowled,,,,,,,,,,,,,
+392194,374163,"14th match:RCB v DD at Port Elizabeth- Apr 26, 2009",DD won by 6 wickets (with 4 balls remaining),RCB,149,DD,150,26/04/09,Port Elizabeth,14th match,RCB,DD,DD,,6,4,RCB,149,7,20,20,DD,150,4,19.2,20
+392195,374163,"15th match:KXIP v RR at Cape Town- Apr 26, 2009",KXIP won by 27 runs,KXIP,139,RR,112,26/04/09,Cape Town,15th match,KXIP,RR,KXIP,27,,,KXIP,139,6,20,20,RR,112,7,20,20
+392196,374163,"16th match:CSK v DC at Durban- Apr 27, 2009",DC won by 6 wickets (with 3 balls remaining),CSK,165,DC,169,27/04/09,Durban,16th match,CSK,DC,DC,,6,3,CSK,165,6,20,20,DC,169,4,19.3,20
+392197,374163,"17th match:KKR v MI at Port Elizabeth- Apr 27, 2009",MI won by 92 runs,MI,187,KKR,95,27/04/09,Port Elizabeth,17th match,KKR,MI,MI,92,,,MI,187,6,20,20,KKR,95,10,15.2,20
+392198,374163,"18th match:DD v RR at Centurion- Apr 28, 2009",RR won by 5 wickets (with 9 balls remaining),DD,143,RR,147,28/04/09,Centurion,18th match,DD,RR,RR,,5,9,DD,143,7,20,20,RR,147,5,18.3,20
+392199,374163,"19th match:RCB v KKR at Durban- Apr 29, 2009",RCB won by 5 wickets (with 1 ball remaining),KKR,139,RCB,143,29/04/09,Durban,19th match,RCB,KKR,RCB,,5,1,KKR,139,6,20,20,RCB,143,5,19.5,20
+392200,374163,"20th match:KXIP v MI at Durban- Apr 29, 2009",KXIP won by 3 runs,KXIP,119,MI,116,29/04/09,Durban,20th match,KXIP,MI,KXIP,3,,,KXIP,119,8,20,20,MI,116,7,20,20
+392201,374163,"21st match:DC v DD at Centurion- Apr 30, 2009",DD won by 6 wickets (with 8 balls remaining),DC,148,DD,150,30/04/09,Centurion,21st match,DC,DD,DD,,6,8,DC,148,9,20,20,DD,150,4,18.4,20
+392202,374163,"22nd match:CSK v RR at Centurion- Apr 30, 2009",CSK won by 38 runs,CSK,164,RR,126,30/04/09,Centurion,22nd match,CSK,RR,CSK,38,,,CSK,164,5,20,20,RR,126,10,19.3,20
+392203,374163,"23rd match:KKR v MI at East London- May 1, 2009",MI won by 9 runs,MI,148,KKR,139,1/5/2009,East London,23rd match,KKR,MI,MI,9,,,MI,148,6,20,20,KKR,139,6,20,20
+392204,374163,"24th match:RCB v KXIP at Durban- May 1, 2009",RCB won by 8 runs,RCB,145,KXIP,137,1/5/2009,Durban,24th match,RCB,KXIP,RCB,8,,,RCB,145,9,20,20,KXIP,137,7,20,20
+392205,374163,"25th match:DC v RR at Port Elizabeth- May 2, 2009",RR won by 3 wickets (with 2 balls remaining),DC,141,RR,142,2/5/2009,Port Elizabeth,25th match,DC,RR,RR,,3,2,DC,141,5,20,20,RR,142,7,19.4,20
+392206,374163,"26th match:CSK v DD at Johannesburg- May 2, 2009",CSK won by 18 runs,CSK,163,DD,145,2/5/2009,Johannesburg,26th match,CSK,DD,CSK,18,,,CSK,163,10,20,20,DD,145,8,20,20
+392207,374163,"27th match:KXIP v KKR at Port Elizabeth- May 3, 2009",KXIP won by 6 wickets (with 0 balls remaining),KKR,153,KXIP,154,3/5/2009,Port Elizabeth,27th match,KXIP,KKR,KXIP,,6,0,KKR,153,3,20,20,KXIP,154,4,20,20
+392208,374163,"28th match:RCB v MI at Johannesburg- May 3, 2009",RCB won by 9 wickets (with 11 balls remaining),MI,149,RCB,150,3/5/2009,Johannesburg,28th match,RCB,MI,RCB,,9,11,MI,149,4,20,20,RCB,150,1,18.1,20
+392209,374163,"29th match:CSK v DC at East London- May 4, 2009",CSK won by 78 runs,CSK,178,DC,100,4/5/2009,East London,29th match,CSK,DC,CSK,78,,,CSK,178,3,20,20,DC,100,10,14.4,20
+392210,374163,"30th match:KXIP v RR at Durban- May 5, 2009",RR won by 78 runs,RR,211,KXIP,133,5/5/2009,Durban,30th match,KXIP,RR,RR,78,,,RR,211,4,20,20,KXIP,133,8,20,20
+392211,374163,"31st match:DD v KKR at Durban- May 5, 2009",DD won by 9 wickets (with 6 balls remaining),KKR,154,DD,157,5/5/2009,Durban,31st match,DD,KKR,DD,,9,6,KKR,154,3,20,20,DD,157,1,19,20
+392212,374163,"32nd match:DC v MI at Centurion- May 6, 2009",DC won by 19 runs,DC,145,MI,126,6/5/2009,Centurion,32nd match,DC,MI,DC,19,,,DC,145,6,20,20,MI,126,8,20,20
+392213,374163,"33rd match:RCB v RR at Centurion- May 7, 2009",RR won by 7 wickets (with 30 balls remaining),RCB,105,RR,107,7/5/2009,Centurion,33rd match,RCB,RR,RR,,7,30,RCB,105,10,20,20,RR,107,3,15,20
+392214,374163,"34th match:CSK v KXIP at Centurion- May 7, 2009",CSK won by 12 runs (D/L method),CSK,185,KXIP,174,7/5/2009,Centurion,34th match,CSK,KXIP,CSK,12,,,CSK,185,3,18,18,KXIP,174,3,18,18
+392215,374163,"35th match:DD v MI at East London- May 8, 2009",DD won by 7 wickets (with 7 balls remaining),MI,116,DD,118,8/5/2009,East London,35th match,DD,MI,DD,,7,7,MI,116,10,20,20,DD,118,3,18.5,20
+392216,374163,"36th match:DC v KXIP at Kimberley- May 9, 2009",KXIP won by 3 wickets (with 1 ball remaining),DC,168,KXIP,169,9/5/2009,Kimberley,36th match,DC,KXIP,KXIP,,3,1,DC,168,5,20,20,KXIP,169,7,19.5,20
+392217,374163,"37th match:CSK v RR at Kimberley- May 9, 2009",CSK won by 7 wickets (with 10 balls remaining),RR,140,CSK,141,9/5/2009,Kimberley,37th match,CSK,RR,CSK,,7,10,RR,140,7,20,20,CSK,141,3,18.2,20
+392218,374163,"38th match:RCB v MI at Port Elizabeth- May 10, 2009",MI won by 16 runs,MI,157,RCB,141,10/5/2009,Port Elizabeth,38th match,RCB,MI,MI,16,,,MI,157,2,20,20,RCB,141,7,20,20
+392219,374163,"39th match:DD v KKR at Johannesburg- May 10, 2009",DD won by 7 wickets (with 17 balls remaining),KKR,123,DD,125,10/5/2009,Johannesburg,39th match,DD,KKR,DD,,7,17,KKR,123,8,20,20,DD,125,3,17.1,20
+392220,374163,"40th match:DC v RR at Kimberley- May 11, 2009",DC won by 53 runs,DC,166,RR,113,11/5/2009,Kimberley,40th match,DC,RR,DC,53,,,DC,166,7,20,20,RR,113,10,19.3,20
+392221,374163,"41st match:RCB v KKR at Centurion- May 12, 2009",RCB won by 6 wickets (with 4 balls remaining),KKR,173,RCB,176,12/5/2009,Centurion,41st match,RCB,KKR,RCB,,6,4,KKR,173,4,20,20,RCB,176,4,19.2,20
+392222,374163,"42nd match:KXIP v MI at Centurion- May 12, 2009",MI won by 8 wickets (with 22 balls remaining),KXIP,119,MI,122,12/5/2009,Centurion,42nd match,KXIP,MI,MI,,8,22,KXIP,119,9,20,20,MI,122,2,16.2,20
+392223,374163,"43rd match:DC v DD at Durban- May 13, 2009",DD won by 12 runs,DD,173,DC,161,13/05/09,Durban,43rd match,DC,DD,DD,12,,,DD,173,7,20,20,DC,161,10,19.4,20
+392224,374163,"44th match:RCB v CSK at Durban- May 14, 2009",RCB won by 2 wickets (with 2 balls remaining),CSK,129,RCB,132,14/05/09,Durban,44th match,RCB,CSK,RCB,,2,2,CSK,129,10,19.4,20,RCB,132,8,19.4,20
+392225,374163,"45th match:MI v RR at Durban- May 14, 2009",RR won by 2 runs,RR,145,MI,143,14/05/09,Durban,45th match,MI,RR,RR,2,,,RR,145,7,20,20,MI,143,10,19.5,20
+392226,374163,"46th match:DD v KXIP at Bloemfontein- May 15, 2009",KXIP won by 6 wickets (with 5 balls remaining),DD,120,KXIP,123,15/05/09,Bloemfontein,46th match,DD,KXIP,KXIP,,6,5,DD,120,9,20,20,KXIP,123,4,19.1,20
+392227,374163,"47th match:CSK v MI at Port Elizabeth- May 16, 2009",CSK won by 7 wickets (with 5 balls remaining),MI,147,CSK,151,16/05/09,Port Elizabeth,47th match,CSK,MI,CSK,,7,5,MI,147,5,20,20,CSK,151,3,19.1,20
+392228,374163,"48th match:DC v KKR at Johannesburg- May 16, 2009",DC won by 6 wickets (with 0 balls remaining),KKR,160,DC,166,16/05/09,Johannesburg,48th match,DC,KKR,DC,,6,0,KKR,160,5,20,20,DC,166,4,20,20
+392229,374163,"49th match:DC v KXIP at Johannesburg- May 17, 2009",KXIP won by 1 run,KXIP,134,DC,133,17/05/09,Johannesburg,49th match,DC,KXIP,KXIP,1,,,KXIP,134,7,20,20,DC,133,8,20,20
+392230,374163,"50th match:DD v RR at Bloemfontein- May 17, 2009",DD won by 14 runs,DD,150,RR,136,17/05/09,Bloemfontein,50th match,DD,RR,DD,14,,,DD,150,3,20,20,RR,136,9,20,20
+392231,374163,"51st match:CSK v KKR at Centurion- May 18, 2009",KKR won by 7 wickets (with 0 balls remaining),CSK,188,KKR,189,18/05/09,Centurion,51st match,CSK,KKR,KKR,,7,0,CSK,188,3,20,20,KKR,189,3,20,20
+392232,374163,"52nd match:RCB v DD at Johannesburg- May 19, 2009",RCB won by 7 wickets (with 6 balls remaining),DD,134,RCB,135,19/05/09,Johannesburg,52nd match,RCB,DD,RCB,,7,6,DD,134,7,20,20,RCB,135,3,19,20
+392233,374163,"53rd match:KKR v RR at Durban- May 20, 2009",KKR won by 4 wickets (with 3 balls remaining),RR,101,KKR,102,20/05/09,Durban,53rd match,KKR,RR,KKR,,4,3,RR,101,9,20,20,KKR,102,6,19.3,20
+392234,374163,"54th match:CSK v KXIP at Durban- May 20, 2009",CSK won by 24 runs,CSK,116,KXIP,92,20/05/09,Durban,54th match,CSK,KXIP,CSK,24,,,CSK,116,9,20,20,KXIP,92,8,20,20
+392235,374163,"55th match:DD v MI at Centurion- May 21, 2009",DD won by 4 wickets (with 15 balls remaining),MI,165,DD,166,21/05/09,Centurion,55th match,DD,MI,DD,,4,15,MI,165,8,20,20,DD,166,6,17.3,20
+392236,374163,"56th match:RCB v DC at Centurion- May 21, 2009",RCB won by 12 runs,RCB,170,DC,158,21/05/09,Centurion,56th match,RCB,DC,RCB,12,,,RCB,170,4,20,20,DC,158,6,20,20
+392237,374163,"1st Semi-Final:DD v DC at Centurion- May 22, 2009",DC won by 6 wickets (with 14 balls remaining),DD,153,DC,154,22/05/09,Centurion,1st Semi-Final,DD,DC,DC,,6,14,DD,153,8,20,20,DC,154,4,17.4,20
+392238,374163,"2nd Semi-Final:RCB v CSK at Johannesburg- May 23, 2009",RCB won by 6 wickets (with 7 balls remaining),CSK,146,RCB,149,23/05/09,Johannesburg,2nd Semi-Final,RCB,CSK,RCB,,6,7,CSK,146,5,20,20,RCB,149,4,18.5,20
+392239,374163,"Final:RCB v DC at Johannesburg- May 24, 2009",DC won by 6 runs,DC,143,RCB,137,24/05/09,Johannesburg,Final,RCB,DC,DC,6,,,DC,143,6,20,20,RCB,137,9,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+419106,418064,"1st match:DC v KKR at Mumbai- Mar 12, 2010",KKR won by 11 runs,KKR,161,DC,150,12/3/2010,Mumbai,1st match,DC,KKR,KKR,11,,,KKR,161,4,20,20,DC,150,7,20,20
+419107,418064,"2nd match:MI v RR at Mumbai (BS)- Mar 13, 2010",MI won by 4 runs,MI,212,RR,208,13/03/10,Mumbai (BS),2nd match,MI,RR,MI,4,,,MI,212,6,20,20,RR,208,7,20,20
+419108,418064,"3rd match:KXIP v DD at Mohali- Mar 13, 2010",DD won by 5 wickets (with 1 ball remaining),KXIP,142,DD,146,13/03/10,Mohali,3rd match,KXIP,DD,DD,,5,1,KXIP,142,9,20,20,DD,146,5,19.5,20
+419109,418064,"4th match:KKR v RCB at Kolkata- Mar 14, 2010",KKR won by 7 wickets (with 4 balls remaining),RCB,135,KKR,136,14/03/10,Kolkata,4th match,KKR,RCB,KKR,,7,4,RCB,135,7,20,20,KKR,136,3,19.2,20
+419110,418064,"5th match:CSK v DC at Chennai- Mar 14, 2010",DC won by 31 runs,DC,190,CSK,159,14/03/10,Chennai,5th match,CSK,DC,DC,31,,,DC,190,4,20,20,CSK,159,9,20,20
+419111,418064,"6th match:RR v DD at Ahmedabad- Mar 15, 2010",DD won by 6 wickets (with 17 balls remaining),RR,141,DD,142,15/03/10,Ahmedabad,6th match,RR,DD,DD,,6,17,RR,141,6,20,20,DD,142,4,17.1,20
+419112,418064,"7th match:RCB v KXIP at Bangalore- Mar 16, 2010",RCB won by 8 wickets (with 7 balls remaining),KXIP,203,RCB,204,16/03/10,Bangalore,7th match,RCB,KXIP,RCB,,8,7,KXIP,203,3,20,20,RCB,204,2,18.5,20
+419113,418064,"8th match:KKR v CSK at Kolkata- Mar 16, 2010",CSK won by 55 runs,CSK,164,KKR,109,16/03/10,Kolkata,8th match,KKR,CSK,CSK,55,,,CSK,164,3,20,20,KKR,109,10,19.2,20
+419114,418064,"9th match:DD v MI at Delhi- Mar 17, 2010",MI won by 98 runs,MI,218,DD,120,17/03/10,Delhi,9th match,DD,MI,MI,98,,,MI,218,7,20,20,DD,120,10,16.3,20
+419115,418064,"10th match:RCB v RR at Bangalore- Mar 18, 2010",RCB won by 10 wickets (with 56 balls remaining),RR,92,RCB,93,18/03/10,Bangalore,10th match,RCB,RR,RCB,,10,56,RR,92,10,19.5,20,RCB,93,0,10.4,20
+419116,418064,"11th match:DD v CSK at Delhi- Mar 19, 2010",CSK won by 5 wickets (with 5 balls remaining),DD,185,CSK,190,19/03/10,Delhi,11th match,DD,CSK,CSK,,5,5,DD,185,6,20,20,CSK,190,5,19.1,20
+419117,418064,"12th match:DC v KXIP at Cuttack- Mar 19, 2010",DC won by 6 runs,DC,170,KXIP,164,19/03/10,Cuttack,12th match,DC,KXIP,DC,6,,,DC,170,7,20,20,KXIP,164,8,20,20
+419118,418064,"13th match:RR v KKR at Ahmedabad- Mar 20, 2010",RR won by 34 runs,RR,168,KKR,134,20/03/10,Ahmedabad,13th match,RR,KKR,RR,34,,,RR,168,7,20,20,KKR,134,5,20,20
+419119,418064,"14th match:MI v RCB at Mumbai (BS)- Mar 20, 2010",RCB won by 7 wickets (with 5 balls remaining),MI,151,RCB,155,20/03/10,Mumbai (BS),14th match,MI,RCB,RCB,,7,5,MI,151,9,20,20,RCB,155,3,19.1,20
+419120,418064,"15th match:DC v DD at Cuttack- Mar 21, 2010",DC won by 10 runs,DC,171,DD,161,21/03/10,Cuttack,15th match,DC,DD,DC,10,,,DC,171,6,20,20,DD,161,9,20,20
+419121,418064,"16th match:CSK v KXIP at Chennai- Mar 21, 2010",Match tied (KXIP won the one-over eliminator),KXIP,136,CSK,136,21/03/10,Chennai,16th match,CSK,KXIP,KXIP,,,,KXIP,136,8,20,20,CSK,136,7,20,20
+419122,418064,"17th match:MI v KKR at Mumbai (BS)- Mar 22, 2010",MI won by 7 wickets (with 9 balls remaining),KKR,155,MI,156,22/03/10,Mumbai (BS),17th match,MI,KKR,MI,,7,9,KKR,155,3,20,20,MI,156,3,18.3,20
+419123,418064,"18th match:RCB v CSK at Bangalore- Mar 23, 2010",RCB won by 36 runs,RCB,171,CSK,135,23/03/10,Bangalore,18th match,RCB,CSK,RCB,36,,,RCB,171,5,20,20,CSK,135,7,20,20
+419124,418064,"19th match:KXIP v RR at Mohali- Mar 24, 2010",RR won by 31 runs,RR,183,KXIP,152,24/03/10,Mohali,19th match,KXIP,RR,RR,31,,,RR,183,5,20,20,KXIP,152,10,19.1,20
+419128,418064,"20th match:RCB v DD at Bangalore- Mar 25, 2010",DD won by 17 runs,DD,183,RCB,166,25/03/10,Bangalore,20th match,RCB,DD,DD,17,,,DD,183,4,20,20,RCB,166,9,20,20
+419125,418064,"21st match:MI v CSK at Mumbai (BS)- Mar 25, 2010",MI won by 5 wickets (with 6 balls remaining),CSK,180,MI,181,25/03/10,Mumbai (BS),21st match,MI,CSK,MI,,5,6,CSK,180,2,20,20,MI,181,5,19,20
+419126,418064,"22nd match:RR v DC at Ahmedabad- Mar 26, 2010",RR won by 8 wickets (with 26 balls remaining),DC,148,RR,151,26/03/10,Ahmedabad,22nd match,RR,DC,RR,,8,26,DC,148,9,20,20,RR,151,2,15.4,20
+419127,418064,"23rd match:KXIP v KKR at Mohali- Mar 27, 2010",KKR won by 39 runs,KKR,183,KXIP,144,27/03/10,Mohali,23rd match,KXIP,KKR,KKR,39,,,KKR,183,5,20,20,KXIP,144,6,20,20
+419129,418064,"24th match:RR v CSK at Ahmedabad- Mar 28, 2010",RR won by 17 runs,RR,177,CSK,160,28/03/10,Ahmedabad,24th match,RR,CSK,RR,17,,,RR,177,8,20,20,CSK,160,6,20,20
+419130,418064,"25th match:DC v MI at Mumbai- Mar 28, 2010",MI won by 41 runs,MI,172,DC,131,28/03/10,Mumbai,25th match,DC,MI,MI,41,,,MI,172,7,20,20,DC,131,10,17.4,20
+419131,418064,"26th match:DD v KKR at Delhi- Mar 29, 2010",DD won by 40 runs,DD,177,KKR,137,29/03/10,Delhi,26th match,DD,KKR,DD,40,,,DD,177,4,20,20,KKR,137,9,20,20
+419132,418064,"27th match:MI v KXIP at Mumbai (BS)- Mar 30, 2010",MI won by 4 wickets (with 3 balls remaining),KXIP,163,MI,164,30/03/10,Mumbai (BS),27th match,MI,KXIP,MI,,4,3,KXIP,163,10,20,20,MI,164,6,19.3,20
+419133,418064,"28th match:CSK v RCB at Chennai- Mar 31, 2010",CSK won by 5 wickets (with 7 balls remaining),RCB,161,CSK,162,31/03/10,Chennai,28th match,CSK,RCB,CSK,,5,7,RCB,161,4,20,20,CSK,162,5,18.5,20
+419134,418064,"29th match:DD v RR at Delhi- Mar 31, 2010",DD won by 67 runs,DD,188,RR,121,31/03/10,Delhi,29th match,DD,RR,DD,67,,,DD,188,6,20,20,RR,121,10,17.4,20
+419135,418064,"30th match:KKR v DC at Kolkata- Apr 1, 2010",KKR won by 24 runs,KKR,181,DC,157,1/4/2010,Kolkata,30th match,KKR,DC,KKR,24,,,KKR,181,6,20,20,DC,157,5,20,20
+419136,418064,"31st match:KXIP v RCB at Mohali- Apr 2, 2010",RCB won by 6 wickets (with 5 balls remaining),KXIP,181,RCB,184,2/4/2010,Mohali,31st match,KXIP,RCB,RCB,,6,5,KXIP,181,5,20,20,RCB,184,4,19.1,20
+419137,418064,"32nd match:CSK v RR at Chennai- Apr 3, 2010",CSK won by 23 runs,CSK,246,RR,223,3/4/2010,Chennai,32nd match,CSK,RR,CSK,23,,,CSK,246,5,20,20,RR,223,5,20,20
+419138,418064,"33rd match:MI v DC at Mumbai (BS)- Apr 3, 2010",MI won by 63 runs,MI,178,DC,115,3/4/2010,Mumbai (BS),33rd match,MI,DC,MI,63,,,MI,178,5,20,20,DC,115,10,18.2,20
+419139,418064,"34th match:KKR v KXIP at Kolkata- Apr 4, 2010",KXIP won by 8 wickets (with 10 balls remaining),KKR,200,KXIP,204,4/4/2010,Kolkata,34th match,KKR,KXIP,KXIP,,8,10,KKR,200,3,20,20,KXIP,204,2,18.2,20
+419140,418064,"35th match:DD v RCB at Delhi- Apr 4, 2010",DD won by 37 runs,DD,184,RCB,147,4/4/2010,Delhi,35th match,DD,RCB,DD,37,,,DD,184,5,20,20,RCB,147,9,20,20
+419141,418064,"36th match:DC v RR at Nagpur- Apr 5, 2010",RR won by 2 runs,RR,159,DC,157,5/4/2010,Nagpur,36th match,DC,RR,RR,2,,,RR,159,10,19.5,20,DC,157,10,19.5,20
+419142,418064,"37th match:CSK v MI at Chennai- Apr 6, 2010",CSK won by 24 runs,CSK,165,MI,141,6/4/2010,Chennai,37th match,CSK,MI,CSK,24,,,CSK,165,4,20,20,MI,141,9,20,20
+419143,418064,"38th match:RR v KXIP at Jaipur- Apr 7, 2010",RR won by 9 wickets (with 30 balls remaining),KXIP,153,RR,157,7/4/2010,Jaipur,38th match,RR,KXIP,RR,,9,30,KXIP,153,6,20,20,RR,157,1,15,20
+419144,418064,"39th match:KKR v DD at Kolkata- Apr 7, 2010",KKR won by 14 runs,KKR,181,DD,167,7/4/2010,Kolkata,39th match,KKR,DD,KKR,14,,,KKR,181,3,20,20,DD,167,8,20,20
+419145,418064,"40th match:RCB v DC at Bangalore- Apr 8, 2010",DC won by 7 wickets (with 4 balls remaining),RCB,184,DC,186,8/4/2010,Bangalore,40th match,RCB,DC,DC,,7,4,RCB,184,6,20,20,DC,186,3,19.2,20
+419146,418064,"41st match:KXIP v MI at Mohali- Apr 9, 2010",KXIP won by 6 wickets (with 4 balls remaining),MI,154,KXIP,158,9/4/2010,Mohali,41st match,KXIP,MI,KXIP,,6,4,MI,154,9,20,20,KXIP,158,4,19.2,20
+419147,418064,"42nd match:DC v CSK at Nagpur- Apr 10, 2010",DC won by 6 wickets (with 5 balls remaining),CSK,138,DC,139,10/4/2010,Nagpur,42nd match,DC,CSK,DC,,6,5,CSK,138,8,20,20,DC,139,4,19.1,20
+419148,418064,"43rd match:RCB v KKR at Bangalore- Apr 10, 2010",RCB won by 7 wickets (with 17 balls remaining),KKR,160,RCB,162,10/4/2010,Bangalore,43rd match,RCB,KKR,RCB,,7,17,KKR,160,9,20,20,RCB,162,3,17.1,20
+419149,418064,"44th match:DD v KXIP at Delhi- Apr 11, 2010",KXIP won by 7 wickets (with 8 balls remaining),DD,111,KXIP,112,11/4/2010,Delhi,44th match,DD,KXIP,KXIP,,7,8,DD,111,10,19.4,20,KXIP,112,3,18.4,20
+419150,418064,"45th match:RR v MI at Jaipur- Apr 11, 2010",MI won by 37 runs,MI,174,RR,137,11/4/2010,Jaipur,45th match,RR,MI,MI,37,,,MI,174,5,20,20,RR,137,8,20,20
+419151,418064,"46th match:DC v RCB at Nagpur- Apr 12, 2010",DC won by 13 runs,DC,151,RCB,138,12/4/2010,Nagpur,46th match,DC,RCB,DC,13,,,DC,151,6,20,20,RCB,138,10,19.4,20
+419152,418064,"47th match:MI v DD at Mumbai (BS)- Apr 13, 2010",MI won by 39 runs,MI,183,DD,144,13/04/10,Mumbai (BS),47th match,MI,DD,MI,39,,,MI,183,4,20,20,DD,144,7,20,20
+419153,418064,"48th match:CSK v KKR at Chennai- Apr 13, 2010",CSK won by 9 wickets (with 39 balls remaining),KKR,139,CSK,143,13/04/10,Chennai,48th match,CSK,KKR,CSK,,9,39,KKR,139,8,20,20,CSK,143,1,13.3,20
+419154,418064,"49th match:RR v RCB at Jaipur- Apr 14, 2010",RCB won by 5 wickets (with 26 balls remaining),RR,130,RCB,132,14/04/10,Jaipur,49th match,RR,RCB,RCB,,5,26,RR,130,6,20,20,RCB,132,5,15.4,20
+419155,418064,"50th match:CSK v DD at Chennai- Apr 15, 2010",DD won by 6 wickets (with 8 balls remaining),CSK,112,DD,113,15/04/10,Chennai,50th match,CSK,DD,DD,,6,8,CSK,112,9,20,20,DD,113,4,18.4,20
+419156,418064,"51st match:KXIP v DC at Dharamsala- Apr 16, 2010",DC won by 5 wickets (with 5 balls remaining),KXIP,174,DC,178,16/04/10,Dharamsala,51st match,KXIP,DC,DC,,5,5,KXIP,174,3,20,20,DC,178,5,19.1,20
+419157,418064,"52nd match:RCB v MI at Bangalore- Apr 17, 2010",MI won by 57 runs,MI,191,RCB,134,17/04/10,Bangalore,52nd match,RCB,MI,MI,57,,,MI,191,4,20,20,RCB,134,9,20,20
+419158,418064,"53rd match:KKR v RR at Kolkata- Apr 17, 2010",KKR won by 8 wickets (with 23 balls remaining),RR,132,KKR,133,17/04/10,Kolkata,53rd match,KKR,RR,KKR,,8,23,RR,132,9,20,20,KKR,133,2,16.1,20
+419159,418064,"54th match:KXIP v CSK at Dharamsala- Apr 18, 2010",CSK won by 6 wickets (with 2 balls remaining),KXIP,192,CSK,195,18/04/10,Dharamsala,54th match,KXIP,CSK,CSK,,6,2,KXIP,192,3,20,20,CSK,195,4,19.4,20
+419160,418064,"55th match:DD v DC at Delhi- Apr 18, 2010",DC won by 11 runs,DC,145,DD,134,18/04/10,Delhi,55th match,DD,DC,DC,11,,,DC,145,7,20,20,DD,134,7,20,20
+419161,418064,"56th match:KKR v MI at Kolkata- Apr 19, 2010",KKR won by 9 wickets (with 15 balls remaining),MI,133,KKR,135,19/04/10,Kolkata,56th match,KKR,MI,KKR,,9,15,MI,133,8,20,20,KKR,135,1,17.3,20
+419162,418064,"1st Semi-Final:RCB v MI at Mumbai- Apr 21, 2010",MI won by 35 runs,MI,184,RCB,149,21/04/10,Mumbai,1st Semi-Final,RCB,MI,MI,35,,,MI,184,5,20,20,RCB,149,9,20,20
+419163,418064,"2nd Semi-Final:CSK v DC at Mumbai- Apr 22, 2010",CSK won by 38 runs,CSK,142,DC,104,22/04/10,Mumbai,2nd Semi-Final,CSK,DC,CSK,38,,,CSK,142,7,20,20,DC,104,10,19.2,20
+419164,418064,"3rd Place Play-off:RCB v DC at Mumbai- Apr 24, 2010",RCB won by 9 wickets (with 37 balls remaining),DC,82,RCB,86,24/04/10,Mumbai,3rd Place Play-off,RCB,DC,RCB,,9,37,DC,82,10,18.3,20,RCB,86,1,13.5,20
+419165,418064,"Final:CSK v MI at Mumbai- Apr 25, 2010",CSK won by 22 runs,CSK,168,MI,146,25/04/10,Mumbai,Final,CSK,MI,CSK,22,,,CSK,168,5,20,20,MI,146,9,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+501198,466304,"1st match:CSK v KKR at Chennai- Apr 8, 2011",CSK won by 2 runs,CSK,153,KKR,151,8/4/2011,Chennai,1st match,CSK,KKR,CSK,2,,,CSK,153,4,20,20,KKR,151,7,20,20
+501199,466304,"2nd match:DC v RR at Hyderabad (Deccan)- Apr 9, 2011",RR won by 8 wickets (with 7 balls remaining),DC,137,RR,141,9/4/2011,Hyderabad (Deccan),2nd match,DC,RR,RR,,8,7,DC,137,8,20,20,RR,141,2,18.5,20
+501200,466304,"3rd match:KTK v RCB at Kochi- Apr 9, 2011",RCB won by 6 wickets (with 8 balls remaining),KTK,161,RCB,162,9/4/2011,Kochi,3rd match,KTK,RCB,RCB,,6,8,KTK,161,5,20,20,RCB,162,4,18.4,20
+501201,466304,"4th match:DD v MI at Delhi- Apr 10, 2011",MI won by 8 wickets (with 19 balls remaining),DD,95,MI,99,10/4/2011,Delhi,4th match,DD,MI,MI,,8,19,DD,95,10,17.4,20,MI,99,2,16.5,20
+501202,466304,"5th match:PWI v KXIP at Mumbai- Apr 10, 2011",PWI won by 7 wickets (with 41 balls remaining),KXIP,112,PWI,113,10/4/2011,Mumbai,5th match,PWI,KXIP,PWI,,7,41,KXIP,112,8,20,20,PWI,113,3,13.1,20
+501203,466304,"6th match:KKR v DC at Kolkata- Apr 11, 2011",KKR won by 9 runs,KKR,163,DC,154,11/4/2011,Kolkata,6th match,KKR,DC,KKR,9,,,KKR,163,4,20,20,DC,154,8,20,20
+501204,466304,"7th match:RR v DD at Jaipur- Apr 12, 2011",RR won by 6 wickets (with 9 balls remaining),DD,151,RR,152,12/4/2011,Jaipur,7th match,RR,DD,RR,,6,9,DD,151,6,20,20,RR,152,4,18.3,20
+501205,466304,"8th match:RCB v MI at Bangalore- Apr 12, 2011",MI won by 9 wickets (with 9 balls remaining),RCB,140,MI,143,12/4/2011,Bangalore,8th match,RCB,MI,MI,,9,9,RCB,140,4,20,20,MI,143,1,18.3,20
+501206,466304,"9th match:KXIP v CSK at Mohali- Apr 13, 2011",KXIP won by 6 wickets (with 5 balls remaining),CSK,188,KXIP,193,13/04/11,Mohali,9th match,KXIP,CSK,KXIP,,6,5,CSK,188,4,20,20,KXIP,193,4,19.1,20
+501207,466304,"10th match:PWI v KTK at Mumbai- Apr 13, 2011",PWI won by 4 wickets (with 7 balls remaining),KTK,148,PWI,151,13/04/11,Mumbai,10th match,PWI,KTK,PWI,,4,7,KTK,148,8,20,20,PWI,151,6,18.5,20
+501208,466304,"11th match:DC v RCB at Hyderabad (Deccan)- Apr 14, 2011",DC won by 33 runs,DC,175,RCB,142,14/04/11,Hyderabad (Deccan),11th match,DC,RCB,DC,33,,,DC,175,5,20,20,RCB,142,9,20,20
+501209,466304,"12th match:RR v KKR at Jaipur- Apr 15, 2011",KKR won by 9 wickets (with 9 balls remaining),RR,159,KKR,160,15/04/11,Jaipur,12th match,RR,KKR,KKR,,9,9,RR,159,4,20,20,KKR,160,1,18.3,20
+501210,466304,"13th match:MI v KTK at Mumbai- Apr 15, 2011",KTK won by 8 wickets (with 6 balls remaining),MI,182,KTK,184,15/04/11,Mumbai,13th match,MI,KTK,KTK,,8,6,MI,182,2,20,20,KTK,184,2,19,20
+501211,466304,"14th match:CSK v RCB at Chennai- Apr 16, 2011",CSK won by 21 runs,CSK,183,RCB,162,16/04/11,Chennai,14th match,CSK,RCB,CSK,21,,,CSK,183,5,20,20,RCB,162,7,20,20
+501212,466304,"15th match:DC v KXIP at Hyderabad (Deccan)- Apr 16, 2011",KXIP won by 8 wickets (with 14 balls remaining),DC,165,KXIP,166,16/04/11,Hyderabad (Deccan),15th match,DC,KXIP,KXIP,,8,14,DC,165,8,20,20,KXIP,166,2,17.4,20
+501213,466304,"16th match:PWI v DD at Mumbai- Apr 17, 2011",DD won by 3 wickets (with 4 balls remaining),PWI,187,DD,190,17/04/11,Mumbai,16th match,PWI,DD,DD,,3,4,PWI,187,5,20,20,DD,190,7,19.2,20
+501214,466304,"17th match:KKR v RR at Kolkata- Apr 17, 2011",KKR won by 8 wickets (with 37 balls remaining),RR,81,KKR,85,17/04/11,Kolkata,17th match,KKR,RR,KKR,,8,37,RR,81,10,15.2,20,KKR,85,2,13.5,20
+501215,466304,"18th match:KTK v CSK at Kochi- Apr 18, 2011",KTK won by 7 wickets (with 12 balls remaining) (D/L method),CSK,131,KTK,135,18/04/11,Kochi,18th match,KTK,CSK,KTK,,7,12,CSK,131,4,17,17,KTK,135,3,15,17
+501216,466304,"19th match:DD v DC at Delhi- Apr 19, 2011",DC won by 16 runs,DC,168,DD,152,19/04/11,Delhi,19th match,DD,DC,DC,16,,,DC,168,4,20,20,DD,152,7,20,20
+501217,466304,"20th match:RCB v RR at Bangalore- Apr 19, 2011",Match abandoned without a ball bowled,,,,,19/04/11,Bangalore,20th match,RCB,RR,Match abandoned without a ball bowled,,,,,,,,,,,,,
+501218,466304,"21st match:MI v PWI at Mumbai- Apr 20, 2011",MI won by 7 wickets (with 0 balls remaining),PWI,118,MI,124,20/04/11,Mumbai,21st match,MI,PWI,MI,,7,0,PWI,118,10,17.2,20,MI,124,3,20,20
+501219,466304,"22nd match:KKR v KTK at Kolkata- Apr 20, 2011",KTK won by 6 runs,KTK,132,KKR,126,20/04/11,Kolkata,22nd match,KKR,KTK,KTK,6,,,KTK,132,7,20,20,KKR,126,9,20,20
+501220,466304,"23rd match:KXIP v RR at Mohali- Apr 21, 2011",KXIP won by 48 runs,KXIP,195,RR,147,21/04/11,Mohali,23rd match,KXIP,RR,KXIP,48,,,KXIP,195,7,20,20,RR,147,7,20,20
+501222,466304,"24th match:KKR v RCB at Kolkata- Apr 22, 2011",RCB won by 9 wickets (with 11 balls remaining),KKR,171,RCB,175,22/04/11,Kolkata,24th match,KKR,RCB,RCB,,9,11,KKR,171,5,20,20,RCB,175,1,18.1,20
+501221,466304,"25th match:MI v CSK at Mumbai- Apr 22, 2011",MI won by 8 runs,MI,164,CSK,156,22/04/11,Mumbai,25th match,MI,CSK,MI,8,,,MI,164,4,20,20,CSK,156,9,20,20
+501223,466304,"26th match:DD v KXIP at Delhi- Apr 23, 2011",DD won by 29 runs,DD,231,KXIP,202,23/04/11,Delhi,26th match,DD,KXIP,DD,29,,,DD,231,4,20,20,KXIP,202,6,20,20
+501224,466304,"27th match:DC v MI at Hyderabad (Deccan)- Apr 24, 2011",MI won by 37 runs,MI,172,DC,135,24/04/11,Hyderabad (Deccan),27th match,DC,MI,MI,37,,,MI,172,4,20,20,DC,135,8,20,20
+501225,466304,"28th match:RR v KTK at Jaipur- Apr 24, 2011",RR won by 8 wickets (with 35 balls remaining),KTK,109,RR,111,24/04/11,Jaipur,28th match,RR,KTK,RR,,8,35,KTK,109,10,20,20,RR,111,2,14.1,20
+501226,466304,"29th match:CSK v PWI at Chennai- Apr 25, 2011",CSK won by 25 runs,CSK,142,PWI,117,25/04/11,Chennai,29th match,CSK,PWI,CSK,25,,,CSK,142,6,20,20,PWI,117,9,20,20
+501227,466304,"30th match:DD v RCB at Delhi- Apr 26, 2011",RCB won by 3 wickets (with 3 balls remaining),DD,160,RCB,161,26/04/11,Delhi,30th match,DD,RCB,RCB,,3,3,DD,160,6,20,20,RCB,161,7,19.3,20
+501228,466304,"31st match:PWI v CSK at Mumbai- Apr 27, 2011",CSK won by 8 wickets (with 3 balls remaining),PWI,141,CSK,145,27/04/11,Mumbai,31st match,PWI,CSK,CSK,,8,3,PWI,141,6,20,20,CSK,145,2,19.3,20
+501229,466304,"32nd match:KTK v DC at Kochi- Apr 27, 2011",DC won by 55 runs,DC,129,KTK,74,27/04/11,Kochi,32nd match,KTK,DC,DC,55,,,DC,129,7,20,20,KTK,74,10,16.3,20
+501230,466304,"33rd match:DD v KKR at Delhi- Apr 28, 2011",KKR won by 17 runs,KKR,148,DD,131,28/04/11,Delhi,33rd match,DD,KKR,KKR,17,,,KKR,148,7,20,20,DD,131,9,20,20
+501231,466304,"34th match:RR v MI at Jaipur- Apr 29, 2011",RR won by 7 wickets (with 11 balls remaining),MI,94,RR,95,29/04/11,Jaipur,34th match,RR,MI,RR,,7,11,MI,94,8,20,20,RR,95,3,18.1,20
+501232,466304,"35th match:RCB v PWI at Bangalore- Apr 29, 2011",RCB won by 26 runs,RCB,181,PWI,155,29/04/11,Bangalore,35th match,RCB,PWI,RCB,26,,,RCB,181,5,20,20,PWI,155,5,20,20
+501233,466304,"36th match:KTK v DD at Kochi- Apr 30, 2011",DD won by 38 runs,DD,157,KTK,119,30/04/11,Kochi,36th match,KTK,DD,DD,38,,,DD,157,7,20,20,KTK,119,10,18.5,20
+501234,466304,"37th match:KKR v KXIP at Kolkata- Apr 30, 2011",KKR won by 8 wickets (with 16 balls remaining),KXIP,119,KKR,120,30/04/11,Kolkata,37th match,KKR,KXIP,KKR,,8,16,KXIP,119,6,20,20,KKR,120,2,17.2,20
+501235,466304,"38th match:RR v PWI at Jaipur- May 1, 2011",RR won by 6 wickets (with 3 balls remaining),PWI,143,RR,144,1/5/2011,Jaipur,38th match,RR,PWI,RR,,6,3,PWI,143,7,20,20,RR,144,4,19.3,20
+501236,466304,"39th match:CSK v DC at Chennai- May 1, 2011",CSK won by 19 runs,CSK,165,DC,146,1/5/2011,Chennai,39th match,CSK,DC,CSK,19,,,CSK,165,5,20,20,DC,146,8,20,20
+501237,466304,"40th match:MI v KXIP at Mumbai- May 2, 2011",MI won by 23 runs,MI,159,KXIP,136,2/5/2011,Mumbai,40th match,MI,KXIP,MI,23,,,MI,159,5,20,20,KXIP,136,8,20,20
+501238,466304,"41st match:DD v KTK at Delhi- May 2, 2011",KTK won by 7 wickets (with 30 balls remaining),DD,140,KTK,141,2/5/2011,Delhi,41st match,DD,KTK,KTK,,7,30,DD,140,6,20,20,KTK,141,3,15,20
+501239,466304,"42nd match:DC v KKR at Hyderabad (Deccan)- May 3, 2011",KKR won by 20 runs,KKR,169,DC,149,3/5/2011,Hyderabad (Deccan),42nd match,DC,KKR,KKR,20,,,KKR,169,4,20,20,DC,149,6,20,20
+501240,466304,"43rd match:CSK v RR at Chennai- May 4, 2011",CSK won by 8 wickets (with 8 balls remaining),RR,147,CSK,149,4/5/2011,Chennai,43rd match,CSK,RR,CSK,,8,8,RR,147,6,20,20,CSK,149,2,18.4,20
+501241,466304,"44th match:PWI v MI at Mumbai- May 4, 2011",MI won by 21 runs,MI,160,PWI,139,4/5/2011,Mumbai,44th match,PWI,MI,MI,21,,,MI,160,7,20,20,PWI,139,7,20,20
+501242,466304,"45th match:KTK v KKR at Kochi- May 5, 2011",KTK won by 17 runs,KTK,156,KKR,139,5/5/2011,Kochi,45th match,KTK,KKR,KTK,17,,,KTK,156,5,20,20,KKR,139,7,20,20
+501243,466304,"46th match:DC v DD at Hyderabad (Deccan)- May 5, 2011",DD won by 4 wickets (with 6 balls remaining),DC,175,DD,179,5/5/2011,Hyderabad (Deccan),46th match,DC,DD,DD,,4,6,DC,175,5,20,20,DD,179,6,19,20
+501244,466304,"47th match:RCB v KXIP at Bangalore- May 6, 2011",RCB won by 85 runs,RCB,205,KXIP,120,6/5/2011,Bangalore,47th match,RCB,KXIP,RCB,85,,,RCB,205,6,20,20,KXIP,120,9,20,20
+501245,466304,"48th match:KKR v CSK at Kolkata- May 7, 2011",KKR won by 10 runs (D/L method),CSK,114,KKR,61,7/5/2011,Kolkata,48th match,KKR,CSK,KKR,10,,,CSK,114,4,20,20,KKR,61,2,10,10
+501246,466304,"49th match:MI v DD at Mumbai- May 7, 2011",MI won by 32 runs,MI,178,DD,146,7/5/2011,Mumbai,49th match,MI,DD,MI,32,,,MI,178,4,20,20,DD,146,10,19.5,20
+501247,466304,"50th match:RCB v KTK at Bangalore- May 8, 2011",RCB won by 9 wickets (with 41 balls remaining),KTK,125,RCB,128,8/5/2011,Bangalore,50th match,RCB,KTK,RCB,,9,41,KTK,125,9,20,20,RCB,128,1,13.1,20
+501248,466304,"51st match:KXIP v PWI at Mohali- May 8, 2011",PWI won by 5 wickets (with 17 balls remaining),KXIP,119,PWI,120,8/5/2011,Mohali,51st match,KXIP,PWI,PWI,,5,17,KXIP,119,8,20,20,PWI,120,5,17.1,20
+501249,466304,"52nd match:RR v CSK at Jaipur- May 9, 2011",CSK won by 63 runs,CSK,196,RR,133,9/5/2011,Jaipur,52nd match,RR,CSK,CSK,63,,,CSK,196,3,20,20,RR,133,10,19.3,20
+501250,466304,"53rd match:DC v PWI at Hyderabad (Deccan)- May 10, 2011",PWI won by 6 wickets (with 10 balls remaining),DC,136,PWI,137,10/5/2011,Hyderabad (Deccan),53rd match,DC,PWI,PWI,,6,10,DC,136,8,20,20,PWI,137,4,18.2,20
+501251,466304,"54th match:KXIP v MI at Mohali- May 10, 2011",KXIP won by 76 runs,KXIP,163,MI,87,10/5/2011,Mohali,54th match,KXIP,MI,KXIP,76,,,KXIP,163,8,20,20,MI,87,10,12.5,20
+501252,466304,"55th match:RR v RCB at Jaipur- May 11, 2011",RCB won by 9 wickets (with 18 balls remaining),RR,146,RCB,151,11/5/2011,Jaipur,55th match,RR,RCB,RCB,,9,18,RR,146,6,20,20,RCB,151,1,17,20
+501253,466304,"56th match:CSK v DD at Chennai- May 12, 2011",CSK won by 18 runs,CSK,176,DD,158,12/5/2011,Chennai,56th match,CSK,DD,CSK,18,,,CSK,176,4,20,20,DD,158,6,20,20
+501254,466304,"57th match:KTK v KXIP at Indore- May 13, 2011",KXIP won by 6 wickets (with 7 balls remaining),KTK,178,KXIP,181,13/05/11,Indore,57th match,KTK,KXIP,KXIP,,6,7,KTK,178,7,20,20,KXIP,181,4,18.5,20
+501255,466304,"58th match:RCB v KKR at Bangalore- May 14, 2011",RCB won by 4 wickets (with 3 balls remaining) (D/L method),KKR,89,RCB,105,14/05/11,Bangalore,58th match,RCB,KKR,RCB,,4,3,KKR,89,4,13,13,RCB,105,6,12.3,13
+501256,466304,"59th match:MI v DC at Mumbai- May 14, 2011",DC won by 10 runs,DC,135,MI,125,14/05/11,Mumbai,59th match,MI,DC,DC,10,,,DC,135,6,20,20,MI,125,8,20,20
+501257,466304,"60th match:KXIP v DD at Dharamsala- May 15, 2011",KXIP won by 29 runs,KXIP,170,DD,141,15/05/11,Dharamsala,60th match,KXIP,DD,KXIP,29,,,KXIP,170,6,20,20,DD,141,8,20,20
+501258,466304,"61st match:KTK v RR at Indore- May 15, 2011",KTK won by 8 wickets (with 76 balls remaining),RR,97,KTK,98,15/05/11,Indore,61st match,KTK,RR,KTK,,8,76,RR,97,10,18.3,20,KTK,98,2,7.2,20
+501259,466304,"62nd match:PWI v DC at Mumbai- May 16, 2011",DC won by 6 wickets (with 4 balls remaining),PWI,136,DC,138,16/05/11,Mumbai,62nd match,PWI,DC,DC,,6,4,PWI,136,9,20,20,DC,138,4,19.2,20
+501260,466304,"63rd match:KXIP v RCB at Dharamsala- May 17, 2011",KXIP won by 111 runs,KXIP,232,RCB,121,17/05/11,Dharamsala,63rd match,KXIP,RCB,KXIP,111,,,KXIP,232,2,20,20,RCB,121,10,17,20
+501261,466304,"64th match:CSK v KTK at Chennai- May 18, 2011",CSK won by 11 runs,CSK,152,KTK,141,18/05/11,Chennai,64th match,CSK,KTK,CSK,11,,,CSK,152,5,20,20,KTK,141,5,20,20
+501262,466304,"65th match:PWI v KKR at Mumbai- May 19, 2011",KKR won by 7 wickets (with 20 balls remaining),PWI,118,KKR,119,19/05/11,Mumbai,65th match,PWI,KKR,KKR,,7,20,PWI,118,7,20,20,KKR,119,3,16.4,20
+501263,466304,"66th match:MI v RR at Mumbai- May 20, 2011",RR won by 10 wickets (with 41 balls remaining),MI,133,RR,134,20/05/11,Mumbai,66th match,MI,RR,RR,,10,41,MI,133,5,20,20,RR,134,0,13.1,20
+501264,466304,"67th match:KXIP v DC at Dharamsala- May 21, 2011",DC won by 82 runs,DC,198,KXIP,116,21/05/11,Dharamsala,67th match,KXIP,DC,DC,82,,,DC,198,2,20,20,KXIP,116,10,19,20
+501265,466304,"68th match:DD v PWI at Delhi- May 21, 2011",No result,DD,56,,,21/05/11,Delhi,68th match,DD,PWI,No result,,,,DD,56,3,10.1,20,,,,,
+501266,466304,"69th match:RCB v CSK at Bangalore- May 22, 2011",RCB won by 8 wickets (with 12 balls remaining),CSK,128,RCB,129,22/05/11,Bangalore,69th match,RCB,CSK,RCB,,8,12,CSK,128,8,20,20,RCB,129,2,18,20
+501267,466304,"70th match:KKR v MI at Kolkata- May 22, 2011",MI won by 5 wickets (with 0 balls remaining),KKR,175,MI,178,22/05/11,Kolkata,70th match,KKR,MI,MI,,5,0,KKR,175,7,20,20,MI,178,5,20,20
+501268,466304,"1st Qualifying Final:RCB v CSK at Mumbai- May 24, 2011",CSK won by 6 wickets (with 2 balls remaining),RCB,175,CSK,177,24/05/11,Mumbai,1st Qualifying Final,RCB,CSK,CSK,,6,2,RCB,175,4,20,20,CSK,177,4,19.4,20
+501269,466304,"Elimination Final:KKR v MI at Mumbai- May 25, 2011",MI won by 4 wickets (with 4 balls remaining),KKR,147,MI,148,25/05/11,Mumbai,Elimination Final,KKR,MI,MI,,4,4,KKR,147,7,20,20,MI,148,6,19.2,20
+501270,466304,"2nd Qualifying Final:RCB v MI at Chennai- May 27, 2011",RCB won by 43 runs,RCB,185,MI,142,27/05/11,Chennai,2nd Qualifying Final,RCB,MI,RCB,43,,,RCB,185,4,20,20,MI,142,8,20,20
+501271,466304,"Final:CSK v RCB at Chennai- May 28, 2011",CSK won by 58 runs,CSK,205,RCB,147,28/05/11,Chennai,Final,CSK,RCB,CSK,58,,,CSK,205,5,20,20,RCB,147,8,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+548306,520932,"1st match:CSK v MI at Chennai- Apr 4, 2012",MI won by 8 wickets (with 19 balls remaining),CSK,112,MI,115,4/4/2012,Chennai,1st match,CSK,MI,MI,,8,19,CSK,112,10,19.5,20,MI,115,2,16.5,20
+548307,520932,"2nd match:KKR v DD at Kolkata- Apr 5, 2012",DD won by 8 wickets (with 5 balls remaining),KKR,97,DD,100,5/4/2012,Kolkata,2nd match,KKR,DD,DD,,8,5,KKR,97,9,12,12,DD,100,2,11.1,12
+548308,520932,"3rd match:MI v PWI at Mumbai- Apr 6, 2012",PWI won by 28 runs,PWI,129,MI,101,6/4/2012,Mumbai,3rd match,MI,PWI,PWI,28,,,PWI,129,9,20,20,MI,101,9,20,20
+548309,520932,"4th match:RR v KXIP at Jaipur- Apr 6, 2012",RR won by 31 runs,RR,191,KXIP,160,6/4/2012,Jaipur,4th match,RR,KXIP,RR,31,,,RR,191,4,20,20,KXIP,160,9,20,20
+548310,520932,"5th match:RCB v DD at Bangalore- Apr 7, 2012",RCB won by 20 runs,RCB,157,DD,137,7/4/2012,Bangalore,5th match,RCB,DD,RCB,20,,,RCB,157,8,20,20,DD,137,7,20,20
+548311,520932,"6th match:DC v CSK at Visakhapatnam- Apr 7, 2012",CSK won by 74 runs,CSK,193,DC,119,7/4/2012,Visakhapatnam,6th match,DC,CSK,CSK,74,,,CSK,193,6,20,20,DC,119,10,17.1,20
+548312,520932,"7th match:RR v KKR at Jaipur- Apr 8, 2012",RR won by 22 runs,RR,164,KKR,142,8/4/2012,Jaipur,7th match,RR,KKR,RR,22,,,RR,164,5,20,20,KKR,142,10,20,20
+548313,520932,"8th match:PWI v KXIP at Pune- Apr 8, 2012",PWI won by 22 runs,PWI,166,KXIP,144,8/4/2012,Pune,8th match,PWI,KXIP,PWI,22,,,PWI,166,6,20,20,KXIP,144,8,20,20
+548314,520932,"9th match:DC v MI at Visakhapatnam- Apr 9, 2012",MI won by 5 wickets (with 0 balls remaining),DC,138,MI,142,9/4/2012,Visakhapatnam,9th match,DC,MI,MI,,5,0,DC,138,9,20,20,MI,142,5,20,20
+548315,520932,"10th match:RCB v KKR at Bangalore- Apr 10, 2012",KKR won by 42 runs,KKR,165,RCB,123,10/4/2012,Bangalore,10th match,RCB,KKR,KKR,42,,,KKR,165,8,20,20,RCB,123,9,20,20
+548316,520932,"11th match:DD v CSK at Delhi- Apr 10, 2012",DD won by 8 wickets (with 40 balls remaining),CSK,110,DD,111,10/4/2012,Delhi,11th match,DD,CSK,DD,,8,40,CSK,110,8,20,20,DD,111,2,13.2,20
+548317,520932,"12th match:MI v RR at Mumbai- Apr 11, 2012",MI won by 27 runs,MI,197,RR,170,11/4/2012,Mumbai,12th match,MI,RR,MI,27,,,MI,197,6,20,20,RR,170,10,19.4,20
+548318,520932,"13th match:CSK v RCB at Chennai- Apr 12, 2012",CSK won by 5 wickets (with 0 balls remaining),RCB,205,CSK,208,12/4/2012,Chennai,13th match,CSK,RCB,CSK,,5,0,RCB,205,8,20,20,CSK,208,5,20,20
+548319,520932,"14th match:KXIP v PWI at Mohali- Apr 12, 2012",KXIP won by 7 wickets (with 14 balls remaining),PWI,115,KXIP,116,12/4/2012,Mohali,14th match,KXIP,PWI,KXIP,,7,14,PWI,115,10,19,20,KXIP,116,3,17.4,20
+548320,520932,"15th match:KKR v RR at Kolkata- Apr 13, 2012",KKR won by 5 wickets (with 4 balls remaining),RR,131,KKR,137,13/04/12,Kolkata,15th match,KKR,RR,KKR,,5,4,RR,131,5,20,20,KKR,137,5,19.2,20
+548322,520932,"16th match:PWI v CSK at Pune- Apr 14, 2012",PWI won by 7 wickets (with 4 balls remaining),CSK,155,PWI,156,14/04/12,Pune,16th match,PWI,CSK,PWI,,7,4,CSK,155,5,20,20,PWI,156,3,19.2,20
+548323,520932,"17th match:KKR v KXIP at Kolkata- Apr 15, 2012",KXIP won by 2 runs,KXIP,134,KKR,132,15/04/12,Kolkata,17th match,KKR,KXIP,KXIP,2,,,KXIP,134,9,20,20,KKR,132,7,20,20
+548324,520932,"18th match:RCB v RR at Bangalore- Apr 15, 2012",RR won by 59 runs,RR,195,RCB,136,15/04/12,Bangalore,18th match,RCB,RR,RR,59,,,RR,195,2,20,20,RCB,136,10,19.5,20
+548325,520932,"19th match:MI v DD at Mumbai- Apr 16, 2012",DD won by 7 wickets (with 31 balls remaining),MI,92,DD,93,16/04/12,Mumbai,19th match,MI,DD,DD,,7,31,MI,92,10,19.2,20,DD,93,3,14.5,20
+548326,520932,"20th match:RR v DC at Jaipur- Apr 17, 2012",RR won by 5 wickets (with 2 balls remaining),DC,196,RR,197,17/04/12,Jaipur,20th match,RR,DC,RR,,5,2,DC,196,2,20,20,RR,197,5,19.4,20
+548327,520932,"21st match:RCB v PWI at Bangalore- Apr 17, 2012",RCB won by 6 wickets (with 0 balls remaining),PWI,182,RCB,186,17/04/12,Bangalore,21st match,RCB,PWI,RCB,,6,0,PWI,182,6,20,20,RCB,186,4,20,20
+548328,520932,"22nd match:KXIP v KKR at Mohali- Apr 18, 2012",KKR won by 8 wickets (with 21 balls remaining),KXIP,124,KKR,127,18/04/12,Mohali,22nd match,KXIP,KKR,KKR,,8,21,KXIP,124,7,20,20,KKR,127,2,16.3,20
+548321,520932,"23rd match:DD v DC at Delhi- Apr 19, 2012",DD won by 5 wickets (with 5 balls remaining),DC,157,DD,162,19/04/12,Delhi,23rd match,DD,DC,DD,,5,5,DC,157,8,20,20,DD,162,5,19.1,20
+548330,520932,"24th match:CSK v PWI at Chennai- Apr 19, 2012",CSK won by 13 runs,CSK,164,PWI,151,19/04/12,Chennai,24th match,CSK,PWI,CSK,13,,,CSK,164,5,20,20,PWI,151,7,20,20
+548331,520932,"25th match:KXIP v RCB at Mohali- Apr 20, 2012",RCB won by 5 wickets (with 3 balls remaining),KXIP,163,RCB,166,20/04/12,Mohali,25th match,KXIP,RCB,RCB,,5,3,KXIP,163,6,20,20,RCB,166,5,19.3,20
+548332,520932,"26th match:CSK v RR at Chennai- Apr 21, 2012",CSK won by 7 wickets (with 0 balls remaining),RR,146,CSK,147,21/04/12,Chennai,26th match,CSK,RR,CSK,,7,0,RR,146,4,20,20,CSK,147,3,20,20
+548333,520932,"27th match:DD v PWI at Delhi- Apr 21, 2012",PWI won by 20 runs,PWI,192,DD,172,21/04/12,Delhi,27th match,DD,PWI,PWI,20,,,PWI,192,3,20,20,DD,172,7,20,20
+548334,520932,"28th match:MI v KXIP at Mumbai- Apr 22, 2012",KXIP won by 6 wickets (with 3 balls remaining),MI,163,KXIP,164,22/04/12,Mumbai,28th match,MI,KXIP,KXIP,,6,3,MI,163,6,20,20,KXIP,164,4,19.3,20
+548335,520932,"29th match:DC v KKR at Cuttack- Apr 22, 2012",KKR won by 5 wickets (with 6 balls remaining),DC,126,KKR,127,22/04/12,Cuttack,29th match,DC,KKR,KKR,,5,6,DC,126,7,20,20,KKR,127,5,19,20
+548336,520932,"30th match:RR v RCB at Jaipur- Apr 23, 2012",RCB won by 46 runs,RCB,189,RR,143,23/04/12,Jaipur,30th match,RR,RCB,RCB,46,,,RCB,189,3,20,20,RR,143,7,20,20
+548337,520932,"31st match:PWI v DD at Pune- Apr 24, 2012",DD won by 8 wickets (with 24 balls remaining),PWI,146,DD,148,24/04/12,Pune,31st match,PWI,DD,DD,,8,24,PWI,146,2,20,20,DD,148,2,16,20
+548338,520932,"32nd match:KKR v DC at Kolkata- Apr 24, 2012",Match abandoned without a ball bowled,,,,,24/04/12,Kolkata,32nd match,KKR,DC,Match abandoned without a ball bowled,,,,,,,,,,,,,
+548339,520932,"33rd match:KXIP v MI at Mohali- Apr 25, 2012",MI won by 4 wickets (with 1 ball remaining),KXIP,168,MI,171,25/04/12,Mohali,33rd match,KXIP,MI,MI,,4,1,KXIP,168,3,20,20,MI,171,6,19.5,20
+548340,520932,"34th match:RCB v CSK at Bangalore- Apr 25, 2012",No result (abandoned with a toss),,,,,25/04/12,Bangalore,34th match,RCB,CSK,No result (abandoned with a toss),,,,,,,,,,,,,
+548341,520932,"35th match:PWI v DC at Pune- Apr 26, 2012",DC won by 18 runs,DC,177,PWI,159,26/04/12,Pune,35th match,PWI,DC,DC,18,,,DC,177,4,20,20,PWI,159,7,20,20
+548342,520932,"36th match:DD v MI at Delhi- Apr 27, 2012",DD won by 37 runs,DD,207,MI,170,27/04/12,Delhi,36th match,DD,MI,DD,37,,,DD,207,5,20,20,MI,170,9,20,20
+548343,520932,"37th match:CSK v KXIP at Chennai- Apr 28, 2012",KXIP won by 7 runs,KXIP,156,CSK,149,28/04/12,Chennai,37th match,CSK,KXIP,KXIP,7,,,KXIP,156,8,20,20,CSK,149,8,20,20
+548344,520932,"38th match:KKR v RCB at Kolkata- Apr 28, 2012",KKR won by 47 runs,KKR,190,RCB,143,28/04/12,Kolkata,38th match,KKR,RCB,KKR,47,,,KKR,190,4,20,20,RCB,143,6,20,20
+548345,520932,"39th match:DD v RR at Delhi- Apr 29, 2012",DD won by 1 run,DD,152,RR,151,29/04/12,Delhi,39th match,DD,RR,DD,1,,,DD,152,6,20,20,RR,151,3,20,20
+548346,520932,"40th match:MI v DC at Mumbai- Apr 29, 2012",MI won by 5 wickets (with 11 balls remaining),DC,100,MI,101,29/04/12,Mumbai,40th match,MI,DC,MI,,5,11,DC,100,10,18.4,20,MI,101,5,18.1,20
+548347,520932,"41st match:CSK v KKR at Chennai- Apr 30, 2012",KKR won by 5 wickets (with 2 balls remaining),CSK,139,KKR,140,30/04/12,Chennai,41st match,CSK,KKR,KKR,,5,2,CSK,139,5,20,20,KKR,140,5,19.4,20
+548348,520932,"42nd match:DC v PWI at Cuttack- May 1, 2012",DC won by 13 runs,DC,186,PWI,173,1/5/2012,Cuttack,42nd match,DC,PWI,DC,13,,,DC,186,4,20,20,PWI,173,5,20,20
+548349,520932,"43rd match:RR v DD at Jaipur- May 1, 2012",DD won by 6 wickets (with 28 balls remaining),RR,141,DD,144,1/5/2012,Jaipur,43rd match,RR,DD,DD,,6,28,RR,141,6,20,20,DD,144,4,15.2,20
+548350,520932,"44th match:RCB v KXIP at Bangalore- May 2, 2012",KXIP won by 4 wickets (with 1 ball remaining),RCB,158,KXIP,163,2/5/2012,Bangalore,44th match,RCB,KXIP,KXIP,,4,1,RCB,158,5,20,20,KXIP,163,6,19.5,20
+548351,520932,"45th match:PWI v MI at Pune- May 3, 2012",MI won by 1 run,MI,120,PWI,119,3/5/2012,Pune,45th match,PWI,MI,MI,1,,,MI,120,9,20,20,PWI,119,6,20,20
+548352,520932,"46th match:CSK v DC at Chennai- May 4, 2012",CSK won by 10 runs,CSK,160,DC,150,4/5/2012,Chennai,46th match,CSK,DC,CSK,10,,,CSK,160,6,20,20,DC,150,5,20,20
+548353,520932,"47th match:KKR v PWI at Kolkata- May 5, 2012",KKR won by 7 runs,KKR,150,PWI,143,5/5/2012,Kolkata,47th match,KKR,PWI,KKR,7,,,KKR,150,5,20,20,PWI,143,8,20,20
+548354,520932,"48th match:KXIP v RR at Mohali- May 5, 2012",RR won by 43 runs,RR,177,KXIP,134,5/5/2012,Mohali,48th match,KXIP,RR,RR,43,,,RR,177,6,20,20,KXIP,134,8,20,20
+548355,520932,"49th match:MI v CSK at Mumbai- May 6, 2012",MI won by 2 wickets (with 0 balls remaining),CSK,173,MI,174,6/5/2012,Mumbai,49th match,MI,CSK,MI,,2,0,CSK,173,8,20,20,MI,174,8,20,20
+548356,520932,"50th match:RCB v DC at Bangalore- May 6, 2012",RCB won by 5 wickets (with 7 balls remaining),DC,181,RCB,185,6/5/2012,Bangalore,50th match,RCB,DC,RCB,,5,7,DC,181,2,20,20,RCB,185,5,18.5,20
+548357,520932,"51st match:DD v KKR at Delhi- May 7, 2012",KKR won by 6 wickets (with 8 balls remaining),DD,153,KKR,154,7/5/2012,Delhi,51st match,DD,KKR,KKR,,6,8,DD,153,9,20,20,KKR,154,4,18.4,20
+548358,520932,"52nd match:PWI v RR at Pune- May 8, 2012",RR won by 7 wickets (with 22 balls remaining),PWI,125,RR,126,8/5/2012,Pune,52nd match,PWI,RR,RR,,7,22,PWI,125,6,20,20,RR,126,3,16.2,20
+548359,520932,"53rd match:DC v KXIP at Hyderabad (Deccan)- May 8, 2012",KXIP won by 25 runs,KXIP,170,DC,145,8/5/2012,Hyderabad (Deccan),53rd match,DC,KXIP,KXIP,25,,,KXIP,170,5,20,20,DC,145,8,20,20
+548360,520932,"54th match:MI v RCB at Mumbai- May 9, 2012",RCB won by 9 wickets (with 12 balls remaining),MI,141,RCB,142,9/5/2012,Mumbai,54th match,MI,RCB,RCB,,9,12,MI,141,6,20,20,RCB,142,1,18,20
+548329,520932,"55th match:DC v DD at Hyderabad (Deccan)- May 10, 2012",DD won by 9 wickets (with 20 balls remaining),DC,187,DD,193,10/5/2012,Hyderabad (Deccan),55th match,DC,DD,DD,,9,20,DC,187,4,20,20,DD,193,1,16.4,20
+548361,520932,"56th match:RR v CSK at Jaipur- May 10, 2012",CSK won by 4 wickets (with 11 balls remaining),RR,126,CSK,127,10/5/2012,Jaipur,56th match,RR,CSK,CSK,,4,11,RR,126,6,20,20,CSK,127,6,18.1,20
+548362,520932,"57th match:PWI v RCB at Pune- May 11, 2012",RCB won by 35 runs,RCB,173,PWI,138,11/5/2012,Pune,57th match,PWI,RCB,RCB,35,,,RCB,173,3,20,20,PWI,138,9,20,20
+548363,520932,"58th match:KKR v MI at Kolkata- May 12, 2012",MI won by 27 runs,MI,182,KKR,155,12/5/2012,Kolkata,58th match,KKR,MI,MI,27,,,MI,182,1,20,20,KKR,155,4,20,20
+548364,520932,"59th match:CSK v DD at Chennai- May 12, 2012",CSK won by 9 wickets (with 28 balls remaining),DD,114,CSK,115,12/5/2012,Chennai,59th match,CSK,DD,CSK,,9,28,DD,114,5,20,20,CSK,115,1,15.2,20
+548365,520932,"60th match:RR v PWI at Jaipur- May 13, 2012",RR won by 45 runs,RR,170,PWI,125,13/05/12,Jaipur,60th match,RR,PWI,RR,45,,,RR,170,4,20,20,PWI,125,9,20,20
+548366,520932,"61st match:KXIP v DC at Mohali- May 13, 2012",KXIP won by 4 wickets (with 0 balls remaining),DC,190,KXIP,194,13/05/12,Mohali,61st match,KXIP,DC,KXIP,,4,0,DC,190,4,20,20,KXIP,194,6,20,20
+548367,520932,"62nd match:RCB v MI at Bangalore- May 14, 2012",MI won by 5 wickets (with 2 balls remaining),RCB,171,MI,173,14/05/12,Bangalore,62nd match,RCB,MI,MI,,5,2,RCB,171,6,20,20,MI,173,5,19.4,20
+548368,520932,"63rd match:KKR v CSK at Kolkata- May 14, 2012",CSK won by 5 wickets (with 0 balls remaining),KKR,158,CSK,160,14/05/12,Kolkata,63rd match,KKR,CSK,CSK,,5,0,KKR,158,6,20,20,CSK,160,5,20,20
+548369,520932,"64th match:DD v KXIP at Delhi- May 15, 2012",DD won by 5 wickets (with 6 balls remaining),KXIP,136,DD,140,15/05/12,Delhi,64th match,DD,KXIP,DD,,5,6,KXIP,136,8,20,20,DD,140,5,19,20
+548370,520932,"65th match:MI v KKR at Mumbai- May 16, 2012",KKR won by 32 runs,KKR,140,MI,108,16/05/12,Mumbai,65th match,MI,KKR,KKR,32,,,KKR,140,7,20,20,MI,108,10,19.1,20
+548371,520932,"66th match:KXIP v CSK at Dharamsala- May 17, 2012",KXIP won by 6 wickets (with 21 balls remaining),CSK,120,KXIP,123,17/05/12,Dharamsala,66th match,KXIP,CSK,KXIP,,6,21,CSK,120,7,20,20,KXIP,123,4,16.3,20
+548372,520932,"67th match:DD v RCB at Delhi- May 17, 2012",RCB won by 21 runs,RCB,215,DD,194,17/05/12,Delhi,67th match,DD,RCB,RCB,21,,,RCB,215,1,20,20,DD,194,9,20,20
+548373,520932,"68th match:DC v RR at Hyderabad (Deccan)- May 18, 2012",DC won by 5 wickets (with 8 balls remaining),RR,126,DC,128,18/05/12,Hyderabad (Deccan),68th match,DC,RR,DC,,5,8,RR,126,8,20,20,DC,128,5,18.4,20
+548374,520932,"69th match:KXIP v DD at Dharamsala- May 19, 2012",DD won by 6 wickets (with 10 balls remaining),KXIP,141,DD,145,19/05/12,Dharamsala,69th match,KXIP,DD,DD,,6,10,KXIP,141,8,20,20,DD,145,4,18.2,20
+548375,520932,"70th match:PWI v KKR at Pune- May 19, 2012",KKR won by 34 runs,KKR,136,PWI,102,19/05/12,Pune,70th match,PWI,KKR,KKR,34,,,KKR,136,4,20,20,PWI,102,8,20,20
+548376,520932,"71st match:DC v RCB at Hyderabad (Deccan)- May 20, 2012",DC won by 9 runs,DC,132,RCB,123,20/05/12,Hyderabad (Deccan),71st match,DC,RCB,DC,9,,,DC,132,7,20,20,RCB,123,9,20,20
+548377,520932,"72nd match:RR v MI at Jaipur- May 20, 2012",MI won by 10 wickets (with 12 balls remaining),RR,162,MI,163,20/05/12,Jaipur,72nd match,RR,MI,MI,,10,12,RR,162,6,20,20,MI,163,0,18,20
+548378,520932,"1st Qualifying Match:DD v KKR at Pune- May 22, 2012",KKR won by 18 runs,KKR,162,DD,144,22/05/12,Pune,1st Qualifying Match,DD,KKR,KKR,18,,,KKR,162,4,20,20,DD,144,8,20,20
+548379,520932,"Elimination Final:CSK v MI at Bangalore- May 23, 2012",CSK won by 38 runs,CSK,187,MI,149,23/05/12,Bangalore,Elimination Final,CSK,MI,CSK,38,,,CSK,187,5,20,20,MI,149,9,20,20
+548380,520932,"2nd Qualifying Match:DD v CSK at Chennai- May 25, 2012",CSK won by 86 runs,CSK,222,DD,136,25/05/12,Chennai,2nd Qualifying Match,DD,CSK,CSK,86,,,CSK,222,5,20,20,DD,136,10,16.5,20
+548381,520932,"Final:KKR v CSK at Chennai- May 27, 2012",KKR won by 5 wickets (with 2 balls remaining),CSK,190,KKR,192,27/05/12,Chennai,Final,KKR,CSK,KKR,,5,2,CSK,190,3,20,20,KKR,192,5,19.4,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+597998,586733,"1st match:KKR v DD at Kolkata- Apr 3, 2013",KKR won by 6 wickets (with 8 balls remaining),DD,128,KKR,129,3/4/2013,Kolkata,1st match,KKR,DD,KKR,,6,8,DD,128,10,20,20,KKR,129,4,18.4,20
+597999,586733,"2nd match:RCB v MI at Bangalore- Apr 4, 2013",RCB won by 2 runs,RCB,156,MI,154,4/4/2013,Bangalore,2nd match,RCB,MI,RCB,2,,,RCB,156,5,20,20,MI,154,5,20,20
+598000,586733,"3rd match:SRH v PWI at Hyderabad (Deccan)- Apr 5, 2013",SRH won by 22 runs,SRH,126,PWI,104,5/4/2013,Hyderabad (Deccan),3rd match,SRH,PWI,SRH,22,,,SRH,126,6,20,20,PWI,104,10,18.5,20
+598001,586733,"4th match:DD v RR at Delhi- Apr 6, 2013",RR won by 5 runs,RR,165,DD,160,6/4/2013,Delhi,4th match,DD,RR,RR,5,,,RR,165,7,20,20,DD,160,6,20,20
+598002,586733,"5th match:CSK v MI at Chennai- Apr 6, 2013",MI won by 9 runs,MI,148,CSK,139,6/4/2013,Chennai,5th match,CSK,MI,MI,9,,,MI,148,6,20,20,CSK,139,9,20,20
+598003,586733,"6th match:PWI v KXIP at Pune- Apr 7, 2013",KXIP won by 8 wickets (with 46 balls remaining),PWI,99,KXIP,100,7/4/2013,Pune,6th match,PWI,KXIP,KXIP,,8,46,PWI,99,9,20,20,KXIP,100,2,12.2,20
+598004,586733,"7th match:SRH v RCB at Hyderabad (Deccan)- Apr 7, 2013",Match tied (SRH won the one-over eliminator),RCB,130,SRH,130,7/4/2013,Hyderabad (Deccan),7th match,SRH,RCB,SRH,,,,RCB,130,8,20,20,SRH,130,7,20,20
+598005,586733,"8th match:RR v KKR at Jaipur- Apr 8, 2013",RR won by 19 runs,RR,144,KKR,125,8/4/2013,Jaipur,8th match,RR,KKR,RR,19,,,RR,144,6,20,20,KKR,125,10,19,20
+598048,586733,"9th match:RCB v SRH at Bangalore- Apr 9, 2013",RCB won by 7 wickets (with 14 balls remaining),SRH,161,RCB,162,9/4/2013,Bangalore,9th match,RCB,SRH,RCB,,7,14,SRH,161,6,20,20,RCB,162,3,17.4,20
+598006,586733,"10th match:MI v DD at Mumbai- Apr 9, 2013",MI won by 44 runs,MI,209,DD,165,9/4/2013,Mumbai,10th match,MI,DD,MI,44,,,MI,209,5,20,20,DD,165,9,20,20
+598007,586733,"11th match:KXIP v CSK at Mohali- Apr 10, 2013",CSK won by 10 wickets (with 16 balls remaining),KXIP,138,CSK,139,10/4/2013,Mohali,11th match,KXIP,CSK,CSK,,10,16,KXIP,138,10,19.5,20,CSK,139,0,17.2,20
+598008,586733,"12th match:RCB v KKR at Bangalore- Apr 11, 2013",RCB won by 8 wickets (with 15 balls remaining),KKR,154,RCB,158,11/4/2013,Bangalore,12th match,RCB,KKR,RCB,,8,15,KKR,154,8,20,20,RCB,158,2,17.3,20
+598009,586733,"13th match:PWI v RR at Pune- Apr 11, 2013",PWI won by 7 wickets (with 8 balls remaining),RR,145,PWI,148,11/4/2013,Pune,13th match,PWI,RR,PWI,,7,8,RR,145,5,20,20,PWI,148,3,18.4,20
+598010,586733,"14th match:DD v SRH at Delhi- Apr 12, 2013",SRH won by 3 wickets (with 4 balls remaining),DD,114,SRH,115,12/4/2013,Delhi,14th match,DD,SRH,SRH,,3,4,DD,114,8,20,20,SRH,115,7,19.2,20
+598011,586733,"15th match:MI v PWI at Mumbai- Apr 13, 2013",MI won by 41 runs,MI,183,PWI,142,13/04/13,Mumbai,15th match,MI,PWI,MI,41,,,MI,183,3,20,20,PWI,142,8,20,20
+598012,586733,"16th match:CSK v RCB at Chennai- Apr 13, 2013",CSK won by 4 wickets (with 1 ball remaining),RCB,165,CSK,166,13/04/13,Chennai,16th match,CSK,RCB,CSK,,4,1,RCB,165,6,20,20,CSK,166,6,19.5,20
+598013,586733,"17th match:KKR v SRH at Kolkata- Apr 14, 2013",KKR won by 48 runs,KKR,180,SRH,132,14/04/13,Kolkata,17th match,KKR,SRH,KKR,48,,,KKR,180,4,20,20,SRH,132,7,20,20
+598014,586733,"18th match:RR v KXIP at Jaipur- Apr 14, 2013",RR won by 6 wickets (with 4 balls remaining),KXIP,124,RR,126,14/04/13,Jaipur,18th match,RR,KXIP,RR,,6,4,KXIP,124,10,18.5,20,RR,126,4,19.2,20
+598015,586733,"19th match:CSK v PWI at Chennai- Apr 15, 2013",PWI won by 24 runs,PWI,159,CSK,135,15/04/13,Chennai,19th match,CSK,PWI,PWI,24,,,PWI,159,5,20,20,CSK,135,8,20,20
+598016,586733,"20th match:KXIP v KKR at Mohali- Apr 16, 2013",KXIP won by 4 runs,KXIP,157,KKR,153,16/04/13,Mohali,20th match,KXIP,KKR,KXIP,4,,,KXIP,157,9,20,20,KKR,153,9,20,20
+598017,586733,"21st match:RCB v DD at Bangalore- Apr 16, 2013",Match tied (RCB won the one-over eliminator),DD,152,RCB,152,16/04/13,Bangalore,21st match,RCB,DD,RCB,,,,DD,152,5,20,20,RCB,152,7,20,20
+598018,586733,"22nd match:PWI v SRH at Pune- Apr 17, 2013",SRH won by 11 runs,SRH,119,PWI,108,17/04/13,Pune,22nd match,PWI,SRH,SRH,11,,,SRH,119,8,20,20,PWI,108,10,19,20
+598019,586733,"23rd match:RR v MI at Jaipur- Apr 17, 2013",RR won by 87 runs,RR,179,MI,92,17/04/13,Jaipur,23rd match,RR,MI,RR,87,,,RR,179,3,20,20,MI,92,10,18.2,20
+598020,586733,"24th match:DD v CSK at Delhi- Apr 18, 2013",CSK won by 86 runs,CSK,169,DD,83,18/04/13,Delhi,24th match,DD,CSK,CSK,86,,,CSK,169,4,20,20,DD,83,10,17.3,20
+598021,586733,"25th match:SRH v KXIP at Hyderabad (Deccan)- Apr 19, 2013",SRH won by 5 wickets (with 7 balls remaining),KXIP,123,SRH,127,19/04/13,Hyderabad (Deccan),25th match,SRH,KXIP,SRH,,5,7,KXIP,123,9,20,20,SRH,127,5,18.5,20
+598022,586733,"26th match:KKR v CSK at Kolkata- Apr 20, 2013",CSK won by 4 wickets (with 5 balls remaining),KKR,119,CSK,124,20/04/13,Kolkata,26th match,KKR,CSK,CSK,,4,5,KKR,119,9,20,20,CSK,124,6,19.1,20
+598023,586733,"27th match:RCB v RR at Bangalore- Apr 20, 2013",RCB won by 7 wickets (with 13 balls remaining),RR,117,RCB,123,20/04/13,Bangalore,27th match,RCB,RR,RCB,,7,13,RR,117,10,19.4,20,RCB,123,3,17.5,20
+598024,586733,"28th match:DD v MI at Delhi- Apr 21, 2013",DD won by 9 wickets (with 18 balls remaining),MI,161,DD,165,21/04/13,Delhi,28th match,DD,MI,DD,,9,18,MI,161,4,20,20,DD,165,1,17,20
+598025,586733,"29th match:KXIP v PWI at Mohali- Apr 21, 2013",KXIP won by 7 wickets (with 1 ball remaining),PWI,185,KXIP,186,21/04/13,Mohali,29th match,KXIP,PWI,KXIP,,7,1,PWI,185,4,20,20,KXIP,186,3,19.5,20
+598026,586733,"30th match:CSK v RR at Chennai- Apr 22, 2013",CSK won by 5 wickets (with 1 ball remaining),RR,185,CSK,186,22/04/13,Chennai,30th match,CSK,RR,CSK,,5,1,RR,185,4,20,20,CSK,186,5,19.5,20
+598027,586733,"31st match:RCB v PWI at Bangalore- Apr 23, 2013",RCB won by 130 runs,RCB,263,PWI,133,23/04/13,Bangalore,31st match,RCB,PWI,RCB,130,,,RCB,263,5,20,20,PWI,133,9,20,20
+598059,586733,"32nd match:DD v KXIP at Delhi- Apr 23, 2013",KXIP won by 5 wickets (with 18 balls remaining),DD,120,KXIP,121,23/04/13,Delhi,32nd match,DD,KXIP,KXIP,,5,18,DD,120,7,20,20,KXIP,121,5,17,20
+598029,586733,"33rd match:KKR v MI at Kolkata- Apr 24, 2013",MI won by 5 wickets (with 1 ball remaining),KKR,159,MI,162,24/04/13,Kolkata,33rd match,KKR,MI,MI,,5,1,KKR,159,6,20,20,MI,162,5,19.5,20
+598030,586733,"34th match:CSK v SRH at Chennai- Apr 25, 2013",CSK won by 5 wickets (with 2 balls remaining),SRH,159,CSK,160,25/04/13,Chennai,34th match,CSK,SRH,CSK,,5,2,SRH,159,6,20,20,CSK,160,5,19.4,20
+598031,586733,"35th match:KKR v KXIP at Kolkata- Apr 26, 2013",KKR won by 6 wickets (with 10 balls remaining),KXIP,149,KKR,150,26/04/13,Kolkata,35th match,KKR,KXIP,KKR,,6,10,KXIP,149,6,20,20,KKR,150,4,18.2,20
+598032,586733,"36th match:RR v SRH at Jaipur- Apr 27, 2013",RR won by 8 wickets (with 13 balls remaining),SRH,144,RR,146,27/04/13,Jaipur,36th match,RR,SRH,RR,,8,13,SRH,144,9,20,20,RR,146,2,17.5,20
+598033,586733,"37th match:MI v RCB at Mumbai- Apr 27, 2013",MI won by 58 runs,MI,194,RCB,136,27/04/13,Mumbai,37th match,MI,RCB,MI,58,,,MI,194,7,20,20,RCB,136,7,20,20
+598034,586733,"38th match:CSK v KKR at Chennai- Apr 28, 2013",CSK won by 14 runs,CSK,200,KKR,186,28/04/13,Chennai,38th match,CSK,KKR,CSK,14,,,CSK,200,3,20,20,KKR,186,4,20,20
+598035,586733,"39th match:DD v PWI at Raipur- Apr 28, 2013",DD won by 15 runs,DD,164,PWI,149,28/04/13,Raipur,39th match,DD,PWI,DD,15,,,DD,164,5,20,20,PWI,149,4,20,20
+598036,586733,"40th match:RR v RCB at Jaipur- Apr 29, 2013",RR won by 4 wickets (with 1 ball remaining),RCB,171,RR,173,29/04/13,Jaipur,40th match,RR,RCB,RR,,4,1,RCB,171,6,20,20,RR,173,6,19.5,20
+598037,586733,"41st match:MI v KXIP at Mumbai- Apr 29, 2013",MI won by 4 runs,MI,174,KXIP,170,29/04/13,Mumbai,41st match,MI,KXIP,MI,4,,,MI,174,3,20,20,KXIP,170,10,20,20
+598038,586733,"42nd match:PWI v CSK at Pune- Apr 30, 2013",CSK won by 37 runs,CSK,164,PWI,127,30/04/13,Pune,42nd match,PWI,CSK,CSK,37,,,CSK,164,3,20,20,PWI,127,9,20,20
+598039,586733,"43rd match:SRH v MI at Hyderabad (Deccan)- May 1, 2013",SRH won by 7 wickets (with 12 balls remaining),MI,129,SRH,130,1/5/2013,Hyderabad (Deccan),43rd match,SRH,MI,SRH,,7,12,MI,129,4,20,20,SRH,130,3,18,20
+598040,586733,"44th match:DD v KKR at Raipur- May 1, 2013",DD won by 7 wickets (with 13 balls remaining),KKR,136,DD,137,1/5/2013,Raipur,44th match,DD,KKR,DD,,7,13,KKR,136,7,20,20,DD,137,3,17.5,20
+598041,586733,"45th match:CSK v KXIP at Chennai- May 2, 2013",CSK won by 15 runs,CSK,186,KXIP,171,2/5/2013,Chennai,45th match,CSK,KXIP,CSK,15,,,CSK,186,4,20,20,KXIP,171,6,20,20
+598042,586733,"46th match:PWI v RCB at Pune- May 2, 2013",RCB won by 17 runs,RCB,187,PWI,170,2/5/2013,Pune,46th match,PWI,RCB,RCB,17,,,RCB,187,3,20,20,PWI,170,9,20,20
+598043,586733,"47th match:KKR v RR at Kolkata- May 3, 2013",KKR won by 8 wickets (with 16 balls remaining),RR,132,KKR,133,3/5/2013,Kolkata,47th match,KKR,RR,KKR,,8,16,RR,132,6,20,20,KKR,133,2,17.2,20
+598044,586733,"48th match:SRH v DD at Hyderabad (Deccan)- May 4, 2013",SRH won by 6 wickets (with 37 balls remaining),DD,80,SRH,81,4/5/2013,Hyderabad (Deccan),48th match,SRH,DD,SRH,,6,37,DD,80,10,19.1,20,SRH,81,4,13.5,20
+598046,586733,"49th match:MI v CSK at Mumbai- May 5, 2013",MI won by 60 runs,MI,139,CSK,79,5/5/2013,Mumbai,49th match,MI,CSK,MI,60,,,MI,139,5,20,20,CSK,79,10,15.2,20
+598047,586733,"50th match:RR v PWI at Jaipur- May 5, 2013",RR won by 5 wickets (with 1 ball remaining),PWI,178,RR,182,5/5/2013,Jaipur,50th match,RR,PWI,RR,,5,1,PWI,178,4,20,20,RR,182,5,19.5,20
+598064,586733,"51st match:KXIP v RCB at Mohali- May 6, 2013",KXIP won by 6 wickets (with 12 balls remaining),RCB,190,KXIP,194,6/5/2013,Mohali,51st match,KXIP,RCB,KXIP,,6,12,RCB,190,3,20,20,KXIP,194,4,18,20
+598049,586733,"52nd match:RR v DD at Jaipur- May 7, 2013",RR won by 9 wickets (with 13 balls remaining),DD,154,RR,155,7/5/2013,Jaipur,52nd match,RR,DD,RR,,9,13,DD,154,4,20,20,RR,155,1,17.5,20
+598050,586733,"53rd match:MI v KKR at Mumbai- May 7, 2013",MI won by 65 runs,MI,170,KKR,105,7/5/2013,Mumbai,53rd match,MI,KKR,MI,65,,,MI,170,6,20,20,KKR,105,10,18.2,20
+598051,586733,"54th match:SRH v CSK at Hyderabad (Deccan)- May 8, 2013",CSK won by 77 runs,CSK,223,SRH,146,8/5/2013,Hyderabad (Deccan),54th match,SRH,CSK,CSK,77,,,CSK,223,3,20,20,SRH,146,8,20,20
+598052,586733,"55th match:KXIP v RR at Mohali- May 9, 2013",RR won by 8 wickets (with 6 balls remaining),KXIP,145,RR,147,9/5/2013,Mohali,55th match,KXIP,RR,RR,,8,6,KXIP,145,6,20,20,RR,147,2,19,20
+598053,586733,"56th match:PWI v KKR at Pune- May 9, 2013",KKR won by 46 runs,KKR,152,PWI,106,9/5/2013,Pune,56th match,PWI,KKR,KKR,46,,,KKR,152,6,20,20,PWI,106,10,19.3,20
+598054,586733,"57th match:DD v RCB at Delhi- May 10, 2013",RCB won by 4 runs,RCB,183,DD,179,10/5/2013,Delhi,57th match,DD,RCB,RCB,4,,,RCB,183,4,20,20,DD,179,7,20,20
+598055,586733,"58th match:PWI v MI at Pune- May 11, 2013",MI won by 5 wickets (with 7 balls remaining),PWI,112,MI,116,11/5/2013,Pune,58th match,PWI,MI,MI,,5,7,PWI,112,8,20,20,MI,116,5,18.5,20
+598056,586733,"59th match:KXIP v SRH at Mohali- May 11, 2013",SRH won by 30 runs,SRH,150,KXIP,120,11/5/2013,Mohali,59th match,KXIP,SRH,SRH,30,,,SRH,150,7,20,20,KXIP,120,9,20,20
+598057,586733,"60th match:KKR v RCB at Ranchi- May 12, 2013",KKR won by 5 wickets (with 4 balls remaining),RCB,115,KKR,116,12/5/2013,Ranchi,60th match,KKR,RCB,KKR,,5,4,RCB,115,9,20,20,KKR,116,5,19.2,20
+598058,586733,"61st match:RR v CSK at Jaipur- May 12, 2013",RR won by 5 wickets (with 17 balls remaining),CSK,141,RR,144,12/5/2013,Jaipur,61st match,RR,CSK,RR,,5,17,CSK,141,4,20,20,RR,144,5,17.1,20
+598060,586733,"62nd match:MI v SRH at Mumbai- May 13, 2013",MI won by 7 wickets (with 3 balls remaining),SRH,178,MI,184,13/05/13,Mumbai,62nd match,MI,SRH,MI,,7,3,SRH,178,3,20,20,MI,184,3,19.3,20
+598045,586733,"63rd match:RCB v KXIP at Bangalore- May 14, 2013",KXIP won by 7 wickets (with 11 balls remaining),RCB,174,KXIP,176,14/05/13,Bangalore,63rd match,RCB,KXIP,KXIP,,7,11,RCB,174,5,20,20,KXIP,176,3,18.1,20
+598062,586733,"64th match:CSK v DD at Chennai- May 14, 2013",CSK won by 33 runs,CSK,168,DD,135,14/05/13,Chennai,64th match,CSK,DD,CSK,33,,,CSK,168,4,20,20,DD,135,9,20,20
+598061,586733,"65th match:KKR v PWI at Ranchi- May 15, 2013",PWI won by 7 runs,PWI,170,KKR,163,15/05/13,Ranchi,65th match,KKR,PWI,PWI,7,,,PWI,170,4,20,20,KKR,163,7,20,20
+598063,586733,"66th match:MI v RR at Mumbai- May 15, 2013",MI won by 14 runs,MI,166,RR,152,15/05/13,Mumbai,66th match,MI,RR,MI,14,,,MI,166,8,20,20,RR,152,7,20,20
+598028,586733,"67th match:KXIP v DD at Dharamsala- May 16, 2013",KXIP won by 7 runs,KXIP,171,DD,164,16/05/13,Dharamsala,67th match,KXIP,DD,KXIP,7,,,KXIP,171,4,20,20,DD,164,7,20,20
+598065,586733,"68th match:SRH v RR at Hyderabad (Deccan)- May 17, 2013",SRH won by 23 runs,SRH,136,RR,113,17/05/13,Hyderabad (Deccan),68th match,SRH,RR,SRH,23,,,SRH,136,9,20,20,RR,113,9,20,20
+598066,586733,"69th match:KXIP v MI at Dharamsala- May 18, 2013",KXIP won by 50 runs,KXIP,183,MI,133,18/05/13,Dharamsala,69th match,KXIP,MI,KXIP,50,,,KXIP,183,8,20,20,MI,133,10,19.1,20
+598068,586733,"70th match:RCB v CSK at Bangalore- May 18, 2013",RCB won by 24 runs,RCB,106,CSK,82,18/05/13,Bangalore,70th match,RCB,CSK,RCB,24,,,RCB,106,2,8,8,CSK,82,6,8,8
+598067,586733,"71st match:PWI v DD at Pune- May 19, 2013",PWI won by 38 runs,PWI,172,DD,134,19/05/13,Pune,71st match,PWI,DD,PWI,38,,,PWI,172,5,20,20,DD,134,9,20,20
+598069,586733,"72nd match:SRH v KKR at Hyderabad (Deccan)- May 19, 2013",SRH won by 5 wickets (with 7 balls remaining),KKR,130,SRH,132,19/05/13,Hyderabad (Deccan),72nd match,SRH,KKR,SRH,,5,7,KKR,130,7,20,20,SRH,132,5,18.5,20
+598070,586733,"Qualifier 1:CSK v MI at Delhi- May 21, 2013",CSK won by 48 runs,CSK,192,MI,144,21/05/13,Delhi,Qualifier 1,CSK,MI,CSK,48,,,CSK,192,1,20,20,MI,144,10,18.4,20
+598071,586733,"Eliminator:RR v SRH at Delhi- May 22, 2013",RR won by 4 wickets (with 4 balls remaining),SRH,132,RR,135,22/05/13,Delhi,Eliminator,RR,SRH,RR,,4,4,SRH,132,7,20,20,RR,135,6,19.2,20
+598072,586733,"Qualifier 2:MI v RR at Kolkata- May 24, 2013",MI won by 4 wickets (with 1 ball remaining),RR,165,MI,169,24/05/13,Kolkata,Qualifier 2,MI,RR,MI,,4,1,RR,165,6,20,20,MI,169,6,19.5,20
+598073,586733,"Final:CSK v MI at Kolkata- May 26, 2013",MI won by 23 runs,MI,148,CSK,125,26/05/13,Kolkata,Final,CSK,MI,MI,23,,,MI,148,9,20,20,CSK,125,9,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+729279,695871,"1st match:MI v KKR at Abu Dhabi- Apr 16, 2014",KKR won by 41 runs,KKR,163,MI,122,16/04/14,Abu Dhabi,1st match,MI,KKR,KKR,41,,,KKR,163,5,20,20,MI,122,7,20,20
+729281,695871,"2nd match:DD v RCB at Sharjah- Apr 17, 2014",RCB won by 8 wickets,DD,145,RCB,146,17/04/14,Sharjah,2nd match,DD,RCB,RCB,,8,,DD,145,4,20,20,RCB,146,2,16.4,20
+729283,695871,"3rd match:CSK v KXIP at Abu Dhabi- Apr 18, 2014",KXIP won by 6 wickets,CSK,205,KXIP,206,18/04/14,Abu Dhabi,3rd match,CSK,KXIP,KXIP,,6,,CSK,205,4,20,20,KXIP,206,4,18.5,20
+729285,695871,"4th match:SRH v RR at Abu Dhabi- Apr 18, 2014",RR won by 4 wickets,SRH,133,RR,135,18/04/14,Abu Dhabi,4th match,SRH,RR,RR,,4,,SRH,133,6,20,20,RR,135,6,19.3,20
+729287,695871,"5th match:RCB v MI at Dubai (DSC)- Apr 19, 2014",RCB won by 7 wickets,MI,115,RCB,116,19/04/14,Dubai (DSC),5th match,RCB,MI,RCB,,7,,MI,115,9,20,20,RCB,116,3,17.3,20
+729289,695871,"6th match:KKR v DD at Dubai (DSC)- Apr 19, 2014",DD won by 4 wickets,KKR,166,DD,167,19/04/14,Dubai (DSC),6th match,KKR,DD,DD,,4,,KKR,166,5,20,20,DD,167,6,19.3,20
+729291,695871,"7th match:RR v KXIP at Sharjah- Apr 20, 2014",KXIP won by 7 wickets,RR,191,KXIP,193,20/04/14,Sharjah,7th match,RR,KXIP,KXIP,,7,,RR,191,5,20,20,KXIP,193,3,18.4,20
+729293,695871,"8th match:CSK v DD at Abu Dhabi- Apr 21, 2014",CSK won by 93 runs,CSK,177,DD,84,21/04/14,Abu Dhabi,8th match,CSK,DD,CSK,93,,,CSK,177,7,20,20,DD,84,10,15.4,20
+729295,695871,"9th match:KXIP v SRH at Sharjah- Apr 22, 2014",KXIP won by 72 runs,KXIP,193,SRH,121,22/04/14,Sharjah,9th match,KXIP,SRH,KXIP,72,,,KXIP,193,6,20,20,SRH,121,10,19.2,20
+729297,695871,"10th match:RR v CSK at Dubai (DSC)- Apr 23, 2014",CSK won by 7 runs,CSK,140,RR,133,23/04/14,Dubai (DSC),10th match,RR,CSK,CSK,7,,,CSK,140,6,20,20,RR,133,10,19.5,20
+729299,695871,"11th match:RCB v KKR at Sharjah- Apr 24, 2014",KKR won by 2 runs,KKR,150,RCB,148,24/04/14,Sharjah,11th match,RCB,KKR,KKR,2,,,KKR,150,7,20,20,RCB,148,5,20,20
+729301,695871,"12th match:SRH v DD at Dubai (DSC)- Apr 25, 2014",SRH won by 4 runs,SRH,184,DD,180,25/04/14,Dubai (DSC),12th match,SRH,DD,SRH,4,,,SRH,184,1,20,20,DD,180,4,20,20
+729303,695871,"13th match:CSK v MI at Dubai (DSC)- Apr 25, 2014",CSK won by 7 wickets,MI,141,CSK,142,25/04/14,Dubai (DSC),13th match,CSK,MI,CSK,,7,,MI,141,7,20,20,CSK,142,3,19,20
+729305,695871,"14th match:RR v RCB at Abu Dhabi- Apr 26, 2014",RR won by 6 wickets,RCB,70,RR,71,26/04/14,Abu Dhabi,14th match,RR,RCB,RR,,6,,RCB,70,10,15,20,RR,71,4,13,20
+729307,695871,"15th match:KKR v KXIP at Abu Dhabi- Apr 26, 2014",KXIP won by 23 runs,KXIP,132,KKR,109,26/04/14,Abu Dhabi,15th match,KKR,KXIP,KXIP,23,,,KXIP,132,9,20,20,KKR,109,10,18.2,20
+729309,695871,"16th match:DD v MI at Sharjah- Apr 27, 2014",DD won by 6 wickets,MI,125,DD,126,27/04/14,Sharjah,16th match,DD,MI,DD,,6,,MI,125,6,20,20,DD,126,4,18.5,20
+729311,695871,"17th match:SRH v CSK at Sharjah- Apr 27, 2014",CSK won by 5 wickets,SRH,145,CSK,146,27/04/14,Sharjah,17th match,SRH,CSK,CSK,,5,,SRH,145,5,20,20,CSK,146,5,19.3,20
+729313,695871,"18th match:KXIP v RCB at Dubai (DSC)- Apr 28, 2014",KXIP won by 5 wickets,RCB,124,KXIP,127,28/04/14,Dubai (DSC),18th match,KXIP,RCB,KXIP,,5,,RCB,124,8,20,20,KXIP,127,5,18.5,20
+729315,695871,"19th match:KKR v RR at Abu Dhabi- Apr 29, 2014",Match tied (RR won the one-over eliminator),RR,152,KKR,152,29/04/14,Abu Dhabi,19th match,KKR,RR,RR,,,,RR,152,5,20,20,KKR,152,8,20,20
+729317,695871,"20th match:MI v SRH at Dubai (DSC)- Apr 30, 2014",SRH won by 15 runs,SRH,172,MI,157,30/04/14,Dubai (DSC),20th match,MI,SRH,SRH,15,,,SRH,172,5,20,20,MI,157,7,20,20
+733971,695871,"21st match:CSK v KKR at Ranchi- May 2, 2014",CSK won by 34 runs,CSK,148,KKR,114,2/5/2014,Ranchi,21st match,CSK,KKR,CSK,34,,,CSK,148,3,17,17,KKR,114,9,17,17
+733973,695871,"22nd match:MI v KXIP at Mumbai- May 3, 2014",MI won by 5 wickets,KXIP,168,MI,170,3/5/2014,Mumbai,22nd match,MI,KXIP,MI,,5,,KXIP,168,5,20,20,MI,170,5,19.1,20
+733975,695871,"23rd match:DD v RR at Delhi- May 3, 2014",RR won by 7 wickets,DD,152,RR,156,3/5/2014,Delhi,23rd match,DD,RR,RR,,7,,DD,152,5,20,20,RR,156,3,18.3,20
+733977,695871,"24th match:RCB v SRH at Bangalore- May 4, 2014",RCB won by 4 wickets,SRH,155,RCB,158,4/5/2014,Bangalore,24th match,RCB,SRH,RCB,,4,,SRH,155,6,20,20,RCB,158,6,19.5,20
+733979,695871,"25th match:RR v KKR at Ahmedabad- May 5, 2014",RR won by 10 runs,RR,170,KKR,160,5/5/2014,Ahmedabad,25th match,RR,KKR,RR,10,,,RR,170,6,20,20,KKR,160,6,20,20
+733981,695871,"26th match:DD v CSK at Delhi- May 5, 2014",CSK won by 8 wickets,DD,178,CSK,181,5/5/2014,Delhi,26th match,DD,CSK,CSK,,8,,DD,178,5,20,20,CSK,181,2,19.4,20
+733983,695871,"27th match:MI v RCB at Mumbai- May 6, 2014",MI won by 19 runs,MI,187,RCB,168,6/5/2014,Mumbai,27th match,MI,RCB,MI,19,,,MI,187,5,20,20,RCB,168,8,20,20
+733985,695871,"28th match:DD v KKR at Delhi- May 7, 2014",KKR won by 8 wickets,DD,160,KKR,161,7/5/2014,Delhi,28th match,DD,KKR,KKR,,8,,DD,160,5,20,20,KKR,161,2,18.2,20
+733987,695871,"29th match:KXIP v CSK at Cuttack- May 7, 2014",KXIP won by 44 runs,KXIP,231,CSK,187,7/5/2014,Cuttack,29th match,KXIP,CSK,KXIP,44,,,KXIP,231,4,20,20,CSK,187,6,20,20
+733989,695871,"30th match:RR v SRH at Ahmedabad- May 8, 2014",SRH won by 32 runs,SRH,134,RR,102,8/5/2014,Ahmedabad,30th match,RR,SRH,SRH,32,,,SRH,134,9,20,20,RR,102,10,19.5,20
+733991,695871,"31st match:RCB v KXIP at Bangalore- May 9, 2014",KXIP won by 32 runs,KXIP,198,RCB,166,9/5/2014,Bangalore,31st match,RCB,KXIP,KXIP,32,,,KXIP,198,8,20,20,RCB,166,9,20,20
+733993,695871,"32nd match:DD v SRH at Delhi- May 10, 2014",SRH won by 8 wickets (D/L method),DD,143,SRH,44,10/5/2014,Delhi,32nd match,DD,SRH,SRH,,8,,DD,143,7,20,20,SRH,44,2,4.2,5
+733995,695871,"33rd match:MI v CSK at Mumbai- May 10, 2014",CSK won by 4 wickets,MI,157,CSK,160,10/5/2014,Mumbai,33rd match,MI,CSK,CSK,,4,,MI,157,6,20,20,CSK,160,6,19.3,20
+733997,695871,"34th match:KXIP v KKR at Cuttack- May 11, 2014",KKR won by 9 wickets,KXIP,149,KKR,150,11/5/2014,Cuttack,34th match,KXIP,KKR,KKR,,9,,KXIP,149,8,20,20,KKR,150,1,18,20
+733999,695871,"35th match:RCB v RR at Bangalore- May 11, 2014",RR won by 5 wickets,RCB,190,RR,191,11/5/2014,Bangalore,35th match,RCB,RR,RR,,5,,RCB,190,5,20,20,RR,191,5,18.5,20
+734001,695871,"36th match:SRH v MI at Hyderabad (Deccan)- May 12, 2014",MI won by 7 wickets,SRH,157,MI,160,12/5/2014,Hyderabad (Deccan),36th match,SRH,MI,MI,,7,,SRH,157,3,20,20,MI,160,3,18.4,20
+734003,695871,"37th match:CSK v RR at Ranchi- May 13, 2014",CSK won by 5 wickets,RR,148,CSK,149,13/05/14,Ranchi,37th match,CSK,RR,CSK,,5,,RR,148,8,20,20,CSK,149,5,19.4,20
+734005,695871,"38th match:RCB v DD at Bangalore- May 13, 2014",RCB won by 16 runs,RCB,186,DD,170,13/05/14,Bangalore,38th match,RCB,DD,RCB,16,,,RCB,186,4,20,20,DD,170,7,20,20
+734007,695871,"39th match:SRH v KXIP at Hyderabad (Deccan)- May 14, 2014",KXIP won by 6 wickets,SRH,205,KXIP,211,14/05/14,Hyderabad (Deccan),39th match,SRH,KXIP,KXIP,,6,,SRH,205,5,20,20,KXIP,211,4,18.4,20
+734009,695871,"40th match:KKR v MI at Cuttack- May 14, 2014",KKR won by 6 wickets,MI,141,KKR,142,14/05/14,Cuttack,40th match,KKR,MI,KKR,,6,,MI,141,5,20,20,KKR,142,4,18.4,20
+734011,695871,"41st match:RR v DD at Ahmedabad- May 15, 2014",RR won by 62 runs,RR,201,DD,139,15/05/14,Ahmedabad,41st match,RR,DD,RR,62,,,RR,201,6,20,20,DD,139,9,20,20
+734013,695871,"42nd match:CSK v RCB at Ranchi- May 18, 2014",RCB won by 5 wickets,CSK,138,RCB,142,18/05/14,Ranchi,42nd match,CSK,RCB,RCB,,5,,CSK,138,4,20,20,RCB,142,5,19.5,20
+734015,695871,"43rd match:SRH v KKR at Hyderabad (Deccan)- May 18, 2014",KKR won by 7 wickets,SRH,142,KKR,146,18/05/14,Hyderabad (Deccan),43rd match,SRH,KKR,KKR,,7,,SRH,142,8,20,20,KKR,146,3,19.4,20
+734017,695871,"44th match:RR v MI at Ahmedabad- May 19, 2014",MI won by 25 runs,MI,178,RR,153,19/05/14,Ahmedabad,44th match,RR,MI,MI,25,,,MI,178,3,20,20,RR,153,8,20,20
+734019,695871,"45th match:DD v KXIP at Delhi- May 19, 2014",KXIP won by 4 wickets,DD,164,KXIP,165,19/05/14,Delhi,45th match,DD,KXIP,KXIP,,4,,DD,164,7,20,20,KXIP,165,6,19.4,20
+734021,695871,"46th match:SRH v RCB at Hyderabad (Deccan)- May 20, 2014",SRH won by 7 wickets,RCB,160,SRH,161,20/05/14,Hyderabad (Deccan),46th match,SRH,RCB,SRH,,7,,RCB,160,6,20,20,SRH,161,3,19.4,20
+734023,695871,"47th match:KKR v CSK at Kolkata- May 20, 2014",KKR won by 8 wickets,CSK,154,KKR,156,20/05/14,Kolkata,47th match,KKR,CSK,KKR,,8,,CSK,154,4,20,20,KKR,156,2,18,20
+734025,695871,"48th match:KXIP v MI at Mohali- May 21, 2014",MI won by 7 wickets,KXIP,156,MI,159,21/05/14,Mohali,48th match,KXIP,MI,MI,,7,,KXIP,156,8,20,20,MI,159,3,19,20
+734027,695871,"49th match:KKR v RCB at Kolkata- May 22, 2014",KKR won by 30 runs,KKR,195,RCB,165,22/05/14,Kolkata,49th match,KKR,RCB,KKR,30,,,KKR,195,4,20,20,RCB,165,5,20,20
+734029,695871,"50th match:CSK v SRH at Ranchi- May 22, 2014",SRH won by 6 wickets,CSK,185,SRH,189,22/05/14,Ranchi,50th match,CSK,SRH,SRH,,6,,CSK,185,3,20,20,SRH,189,4,19.4,20
+734031,695871,"51st match:MI v DD at Mumbai- May 23, 2014",MI won by 15 runs,MI,173,DD,158,23/05/14,Mumbai,51st match,MI,DD,MI,15,,,MI,173,10,19.3,20,DD,158,4,20,20
+734033,695871,"52nd match:KXIP v RR at Mohali- May 23, 2014",KXIP won by 16 runs,KXIP,179,RR,163,23/05/14,Mohali,52nd match,KXIP,RR,KXIP,16,,,KXIP,179,4,20,20,RR,163,8,20,20
+734035,695871,"53rd match:RCB v CSK at Bangalore- May 24, 2014",CSK won by 8 wickets,RCB,154,CSK,160,24/05/14,Bangalore,53rd match,RCB,CSK,CSK,,8,,RCB,154,6,20,20,CSK,160,2,17.4,20
+734037,695871,"54th match:KKR v SRH at Kolkata- May 24, 2014",KKR won by 4 wickets,SRH,160,KKR,161,24/05/14,Kolkata,54th match,KKR,SRH,KKR,,4,,SRH,160,7,20,20,KKR,161,6,14.2,20
+734039,695871,"55th match:KXIP v DD at Mohali- May 25, 2014",KXIP won by 7 wickets,DD,115,KXIP,119,25/05/14,Mohali,55th match,KXIP,DD,KXIP,,7,,DD,115,10,18.1,20,KXIP,119,3,13.5,20
+734041,695871,"56th match:MI v RR at Mumbai- May 25, 2014",MI won by 5 wickets,RR,189,MI,195,25/05/14,Mumbai,56th match,MI,RR,MI,,5,,RR,189,4,20,20,MI,195,5,14.4,20
+734043,695871,"Qualifier 1:KXIP v KKR at Kolkata- May 27-28, 2014",KKR won by 28 runs,KKR,163,KXIP,135,28/05/14,Kolkata- May 27,Qualifier 1,KXIP,KKR,KKR,28,,,KKR,163,8,20,20,KXIP,135,8,20,20
+734045,695871,"Eliminator:CSK v MI at Mumbai (BS)- May 28, 2014",CSK won by 7 wickets,MI,173,CSK,176,28/05/14,Mumbai (BS),Eliminator,CSK,MI,CSK,,7,,MI,173,8,20,20,CSK,176,3,18.4,20
+734047,695871,"Qualifier 2:CSK v KXIP at Mumbai- May 30, 2014",KXIP won by 24 runs,KXIP,226,CSK,202,30/05/14,Mumbai,Qualifier 2,CSK,KXIP,KXIP,24,,,KXIP,226,6,20,20,CSK,202,7,20,20
+734049,695871,"Final:KKR v KXIP at Bangalore- Jun 1, 2014",KKR won by 3 wickets,KXIP,199,KKR,200,1/6/2014,Bangalore,Final,KKR,KXIP,KKR,,3,,KXIP,199,4,20,20,KKR,200,7,19.3,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+829705,791129,"1st match:KKR v MI at Kolkata- Apr 8, 2015",KKR won by 7 wickets (with 9 balls remaining),MI,168,KKR,170,8/4/2015,Kolkata,1st match,KKR,MI,KKR,,7,9,MI,168,3,20,20,KKR,170,3,18.3,20
+829707,791129,"2nd match:CSK v DD at Chennai- Apr 9, 2015",CSK won by 1 run,CSK,150,DD,149,9/4/2015,Chennai,2nd match,CSK,DD,CSK,1,,,CSK,150,7,20,20,DD,149,9,20,20
+829709,791129,"3rd match:KXIP v RR at Pune- Apr 10, 2015",RR won by 26 runs,RR,162,KXIP,136,10/4/2015,Pune,3rd match,KXIP,RR,RR,26,,,RR,162,7,20,20,KXIP,136,8,20,20
+829711,791129,"4th match:CSK v SRH at Chennai- Apr 11, 2015",CSK won by 45 runs,CSK,209,SRH,164,11/4/2015,Chennai,4th match,CSK,SRH,CSK,45,,,CSK,209,4,20,20,SRH,164,6,20,20
+829713,791129,"5th match:KKR v RCB at Kolkata- Apr 11, 2015",RCB won by 3 wickets (with 6 balls remaining),KKR,177,RCB,179,11/4/2015,Kolkata,5th match,KKR,RCB,RCB,,3,6,KKR,177,6,20,20,RCB,179,7,19,20
+829715,791129,"6th match:DD v RR at Delhi- Apr 12, 2015",RR won by 3 wickets (with 0 balls remaining),DD,184,RR,186,12/4/2015,Delhi,6th match,DD,RR,RR,,3,0,DD,184,3,20,20,RR,186,7,20,20
+829717,791129,"7th match:MI v KXIP at Mumbai- Apr 12, 2015",KXIP won by 18 runs,KXIP,177,MI,159,12/4/2015,Mumbai,7th match,MI,KXIP,KXIP,18,,,KXIP,177,5,20,20,MI,159,7,20,20
+829719,791129,"8th match:RCB v SRH at Bangalore- Apr 13, 2015",SRH won by 8 wickets (with 16 balls remaining),RCB,166,SRH,172,13/04/15,Bangalore,8th match,RCB,SRH,SRH,,8,16,RCB,166,10,19.5,20,SRH,172,2,17.2,20
+829721,791129,"9th match:RR v MI at Ahmedabad- Apr 14, 2015",RR won by 7 wickets (with 5 balls remaining),MI,164,RR,165,14/04/15,Ahmedabad,9th match,RR,MI,RR,,7,5,MI,164,5,20,20,RR,165,3,19.1,20
+829725,791129,"10th match:KXIP v DD at Pune- Apr 15, 2015",DD won by 5 wickets (with 1 ball remaining),KXIP,165,DD,169,15/04/15,Pune,10th match,KXIP,DD,DD,,5,1,KXIP,165,7,20,20,DD,169,5,19.5,20
+829727,791129,"11th match:SRH v RR at Visakhapatnam- Apr 16, 2015",RR won by 6 wickets (with 0 balls remaining),SRH,127,RR,131,16/04/15,Visakhapatnam,11th match,SRH,RR,RR,,6,0,SRH,127,5,20,20,RR,131,4,20,20
+829729,791129,"12th match:MI v CSK at Mumbai- Apr 17, 2015",CSK won by 6 wickets (with 20 balls remaining),MI,183,CSK,189,17/04/15,Mumbai,12th match,MI,CSK,CSK,,6,20,MI,183,7,20,20,CSK,189,4,16.4,20
+829731,791129,"13th match:SRH v DD at Visakhapatnam- Apr 18, 2015",DD won by 4 runs,DD,167,SRH,163,18/04/15,Visakhapatnam,13th match,SRH,DD,DD,4,,,DD,167,4,20,20,SRH,163,8,20,20
+829733,791129,"14th match:KXIP v KKR at Pune- Apr 18, 2015",KKR won by 4 wickets (with 13 balls remaining),KXIP,155,KKR,159,18/04/15,Pune,14th match,KXIP,KKR,KKR,,4,13,KXIP,155,9,20,20,KKR,159,6,17.5,20
+829735,791129,"15th match:RR v CSK at Ahmedabad- Apr 19, 2015",RR won by 8 wickets (with 10 balls remaining),CSK,156,RR,157,19/04/15,Ahmedabad,15th match,RR,CSK,RR,,8,10,CSK,156,4,20,20,RR,157,2,18.2,20
+829737,791129,"16th match:RCB v MI at Bangalore- Apr 19, 2015",MI won by 18 runs,MI,209,RCB,191,19/04/15,Bangalore,16th match,RCB,MI,MI,18,,,MI,209,7,20,20,RCB,191,7,20,20
+829739,791129,"17th match:DD v KKR at Delhi- Apr 20, 2015",KKR won by 6 wickets (with 11 balls remaining),DD,146,KKR,147,20/04/15,Delhi,17th match,DD,KKR,KKR,,6,11,DD,146,8,20,20,KKR,147,4,18.1,20
+829741,791129,"18th match:RR v KXIP at Ahmedabad- Apr 21, 2015",Match tied (KXIP won the one-over eliminator),RR,191,KXIP,191,21/04/15,Ahmedabad,18th match,RR,KXIP,KXIP,,,,RR,191,6,20,20,KXIP,191,6,20,20
+829743,791129,"19th match:SRH v KKR at Visakhapatnam- Apr 22, 2015",SRH won by 16 runs (D/L method),SRH,176,KKR,101,22/04/15,Visakhapatnam,19th match,SRH,KKR,SRH,16,,,SRH,176,4,20,20,KKR,101,4,12,12
+829745,791129,"20th match:RCB v CSK at Bangalore- Apr 22, 2015",CSK won by 27 runs,CSK,181,RCB,154,22/04/15,Bangalore,20th match,RCB,CSK,CSK,27,,,CSK,181,8,20,20,RCB,154,8,20,20
+829747,791129,"21st match:DD v MI at Delhi- Apr 23, 2015",DD won by 37 runs,DD,190,MI,153,23/04/15,Delhi,21st match,DD,MI,DD,37,,,DD,190,4,20,20,MI,153,9,20,20
+829749,791129,"22nd match:RR v RCB at Ahmedabad- Apr 24, 2015",RCB won by 9 wickets (with 23 balls remaining),RR,130,RCB,134,24/04/15,Ahmedabad,22nd match,RR,RCB,RCB,,9,23,RR,130,9,20,20,RCB,134,1,16.1,20
+829751,791129,"23rd match:MI v SRH at Mumbai- Apr 25, 2015",MI won by 20 runs,MI,157,SRH,137,25/04/15,Mumbai,23rd match,MI,SRH,MI,20,,,MI,157,8,20,20,SRH,137,8,20,20
+829753,791129,"24th match:CSK v KXIP at Chennai- Apr 25, 2015",CSK won by 97 runs,CSK,192,KXIP,95,25/04/15,Chennai,24th match,CSK,KXIP,CSK,97,,,CSK,192,3,20,20,KXIP,95,9,20,20
+829755,791129,"25th match:KKR v RR at Kolkata- Apr 26, 2015",Match abandoned without a ball bowled,,,,,26/04/15,Kolkata,25th match,KKR,RR,Match abandoned without a ball bowled,,,,,,,,,,,,,
+829757,791129,"26th match:DD v RCB at Delhi- Apr 26, 2015",RCB won by 10 wickets (with 57 balls remaining),DD,95,RCB,99,26/04/15,Delhi,26th match,DD,RCB,RCB,,10,57,DD,95,10,18.2,20,RCB,99,0,10.3,20
+829759,791129,"27th match:KXIP v SRH at Mohali- Apr 27, 2015",SRH won by 20 runs,SRH,150,KXIP,130,27/04/15,Mohali,27th match,KXIP,SRH,SRH,20,,,SRH,150,6,20,20,KXIP,130,9,20,20
+829765,791129,"28th match:CSK v KKR at Chennai- Apr 28, 2015",CSK won by 2 runs,CSK,134,KKR,132,28/04/15,Chennai,28th match,CSK,KKR,CSK,2,,,CSK,134,6,20,20,KKR,132,9,20,20
+829763,791129,"29th match:RCB v RR at Bangalore- Apr 29, 2015",No result,RCB,200,,,29/04/15,Bangalore,29th match,RCB,RR,No result,,,,RCB,200,7,20,20,,,,,
+829723,791129,"30th match:KKR v CSK at Kolkata- Apr 30, 2015",KKR won by 7 wickets (with 1 ball remaining),CSK,165,KKR,169,30/04/15,Kolkata,30th match,KKR,CSK,KKR,,7,1,CSK,165,9,20,20,KKR,169,3,19.5,20
+829767,791129,"31st match:DD v KXIP at Delhi- May 1, 2015",DD won by 9 wickets (with 37 balls remaining),KXIP,118,DD,119,1/5/2015,Delhi,31st match,DD,KXIP,DD,,9,37,KXIP,118,8,20,20,DD,119,1,13.5,20
+829769,791129,"32nd match:MI v RR at Mumbai- May 1, 2015",MI won by 8 runs,MI,187,RR,179,1/5/2015,Mumbai,32nd match,MI,RR,MI,8,,,MI,187,5,20,20,RR,179,7,20,20
+829771,791129,"33rd match:RCB v KKR at Bangalore- May 2, 2015",RCB won by 7 wickets (with 2 balls remaining),KKR,111,RCB,115,2/5/2015,Bangalore,33rd match,RCB,KKR,RCB,,7,2,KKR,111,4,10,10,RCB,115,3,9.4,10
+829773,791129,"34th match:SRH v CSK at Hyderabad (Deccan)- May 2, 2015",SRH won by 22 runs,SRH,192,CSK,170,2/5/2015,Hyderabad (Deccan),34th match,SRH,CSK,SRH,22,,,SRH,192,7,20,20,CSK,170,6,20,20
+829775,791129,"35th match:KXIP v MI at Mohali- May 3, 2015",MI won by 23 runs,MI,172,KXIP,149,3/5/2015,Mohali,35th match,KXIP,MI,MI,23,,,MI,172,3,20,20,KXIP,149,7,20,20
+829777,791129,"36th match:RR v DD at Mumbai (BS)- May 3, 2015",RR won by 14 runs,RR,189,DD,175,3/5/2015,Mumbai (BS),36th match,RR,DD,RR,14,,,RR,189,2,20,20,DD,175,7,20,20
+829779,791129,"37th match:CSK v RCB at Chennai- May 4, 2015",CSK won by 24 runs,CSK,148,RCB,124,4/5/2015,Chennai,37th match,CSK,RCB,CSK,24,,,CSK,148,9,20,20,RCB,124,10,19.4,20
+829781,791129,"38th match:KKR v SRH at Kolkata- May 4, 2015",KKR won by 35 runs,KKR,167,SRH,132,4/5/2015,Kolkata,38th match,KKR,SRH,KKR,35,,,KKR,167,7,20,20,SRH,132,9,20,20
+829783,791129,"39th match:MI v DD at Mumbai- May 5, 2015",MI won by 5 wickets (with 3 balls remaining),DD,152,MI,153,5/5/2015,Mumbai,39th match,MI,DD,MI,,5,3,DD,152,6,20,20,MI,153,5,19.3,20
+829785,791129,"40th match:RCB v KXIP at Bangalore- May 6, 2015",RCB won by 138 runs,RCB,226,KXIP,88,6/5/2015,Bangalore,40th match,RCB,KXIP,RCB,138,,,RCB,226,3,20,20,KXIP,88,10,13.4,20
+829787,791129,"41st match:RR v SRH at Mumbai (BS)- May 7, 2015",SRH won by 7 runs,SRH,201,RR,194,7/5/2015,Mumbai (BS),41st match,RR,SRH,SRH,7,,,SRH,201,4,20,20,RR,194,7,20,20
+829761,791129,"42nd match:KKR v DD at Kolkata- May 7, 2015",KKR won by 13 runs,KKR,171,DD,158,7/5/2015,Kolkata,42nd match,KKR,DD,KKR,13,,,KKR,171,7,20,20,DD,158,6,20,20
+829789,791129,"43rd match:CSK v MI at Chennai- May 8, 2015",MI won by 6 wickets (with 4 balls remaining),CSK,158,MI,159,8/5/2015,Chennai,43rd match,CSK,MI,MI,,6,4,CSK,158,5,20,20,MI,159,4,19.2,20
+829791,791129,"44th match:KKR v KXIP at Kolkata- May 9, 2015",KKR won by 1 wicket (with 1 ball remaining),KXIP,183,KKR,184,9/5/2015,Kolkata,44th match,KKR,KXIP,KKR,,1,1,KXIP,183,5,20,20,KKR,184,9,19.5,20
+829793,791129,"45th match:DD v SRH at Raipur- May 9, 2015",SRH won by 6 runs,SRH,163,DD,157,9/5/2015,Raipur,45th match,DD,SRH,SRH,6,,,SRH,163,4,20,20,DD,157,4,20,20
+829795,791129,"46th match:MI v RCB at Mumbai- May 10, 2015",RCB won by 39 runs,RCB,235,MI,196,10/5/2015,Mumbai,46th match,MI,RCB,RCB,39,,,RCB,235,1,20,20,MI,196,7,20,20
+829797,791129,"47th match:CSK v RR at Chennai- May 10, 2015",CSK won by 12 runs,CSK,157,RR,145,10/5/2015,Chennai,47th match,CSK,RR,CSK,12,,,CSK,157,5,20,20,RR,145,9,20,20
+829799,791129,"48th match:SRH v KXIP at Hyderabad (Deccan)- May 11, 2015",SRH won by 5 runs,SRH,185,KXIP,180,11/5/2015,Hyderabad (Deccan),48th match,SRH,KXIP,SRH,5,,,SRH,185,5,20,20,KXIP,180,7,20,20
+829801,791129,"49th match:DD v CSK at Raipur- May 12, 2015",DD won by 6 wickets (with 20 balls remaining),CSK,119,DD,120,12/5/2015,Raipur,49th match,DD,CSK,DD,,6,20,CSK,119,6,20,20,DD,120,4,16.4,20
+829803,791129,"50th match:KXIP v RCB at Mohali- May 13, 2015",KXIP won by 22 runs,KXIP,106,RCB,84,13/05/15,Mohali,50th match,KXIP,RCB,KXIP,22,,,KXIP,106,6,10,10,RCB,84,6,10,10
+829805,791129,"51st match:MI v KKR at Mumbai- May 14, 2015",MI won by 5 runs,MI,171,KKR,166,14/05/15,Mumbai,51st match,MI,KKR,MI,5,,,MI,171,4,20,20,KKR,166,7,20,20
+829807,791129,"52nd match:SRH v RCB at Hyderabad (Deccan)- May 15, 2015",RCB won by 6 wickets (with 1 ball remaining) (D/L method),SRH,135,RCB,83,15/05/15,Hyderabad (Deccan),52nd match,SRH,RCB,RCB,,6,1,SRH,135,3,11,11,RCB,83,4,5.5,6
+829809,791129,"53rd match:KXIP v CSK at Mohali- May 16, 2015",CSK won by 7 wickets (with 19 balls remaining),KXIP,130,CSK,134,16/05/15,Mohali,53rd match,KXIP,CSK,CSK,,7,19,KXIP,130,7,20,20,CSK,134,3,16.5,20
+829811,791129,"54th match:RR v KKR at Mumbai (BS)- May 16, 2015",RR won by 9 runs,RR,199,KKR,190,16/05/15,Mumbai (BS),54th match,RR,KKR,RR,9,,,RR,199,6,20,20,KKR,190,9,20,20
+829813,791129,"55th match:RCB v DD at Bangalore- May 17, 2015",No result,DD,187,RCB,2,17/05/15,Bangalore,55th match,RCB,DD,No result,,,,DD,187,5,20,20,RCB,2,0,1.1,20
+829815,791129,"56th match:SRH v MI at Hyderabad (Deccan)- May 17, 2015",MI won by 9 wickets (with 37 balls remaining),SRH,113,MI,114,17/05/15,Hyderabad (Deccan),56th match,SRH,MI,MI,,9,37,SRH,113,10,20,20,MI,114,1,13.5,20
+829817,791129,"Qualifier 1:CSK v MI at Mumbai- May 19, 2015",MI won by 25 runs,MI,187,CSK,162,19/05/15,Mumbai,Qualifier 1,CSK,MI,MI,25,,,MI,187,6,20,20,CSK,162,10,19,20
+829819,791129,"Eliminator:RCB v RR at Pune- May 20, 2015",RCB won by 71 runs,RCB,180,RR,109,20/05/15,Pune,Eliminator,RCB,RR,RCB,71,,,RCB,180,4,20,20,RR,109,10,19,20
+829821,791129,"Qualifier 2:CSK v RCB at Ranchi- May 22, 2015",CSK won by 3 wickets (with 1 ball remaining),RCB,139,CSK,140,22/05/15,Ranchi,Qualifier 2,CSK,RCB,CSK,,3,1,RCB,139,8,20,20,CSK,140,7,19.5,20
+829823,791129,"Final:MI v CSK at Kolkata- May 24, 2015",MI won by 41 runs,MI,202,CSK,161,24/05/15,Kolkata,Final,MI,CSK,MI,41,,,MI,202,5,20,20,CSK,161,8,20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+980901,968923,"1st match:MI v RPS at Mumbai- Apr 9, 2016",RPS won by 9 wickets (with 32 balls remaining),MI,121,RPS,126,9/4/2016,Mumbai,1st match,MI,RPS,RPS,,9,32,MI,121,8,20,20,RPS,126,1,14.4,20
+980903,968923,"2nd match:KKR v DD at Kolkata- Apr 10, 2016",KKR won by 9 wickets (with 35 balls remaining),DD,98,KKR,99,10/4/2016,Kolkata,2nd match,KKR,DD,KKR,,9,35,DD,98,10,17.4,20,KKR,99,1,14.1,20
+980905,968923,"3rd match:KXIP v GI at Mohali- Apr 11, 2016",GI won by 5 wickets (with 14 balls remaining),KXIP,161,GI,162,11/4/2016,Mohali,3rd match,KXIP,GI,GI,,5,14,KXIP,161,6,20,20,GI,162,5,17.4,20
+980907,968923,"4th match:RCB v SRH at Bangalore- Apr 12, 2016",RCB won by 45 runs,RCB,227,SRH,182,12/4/2016,Bangalore,4th match,RCB,SRH,RCB,45,,,RCB,227,4,20,20,SRH,182,6,20,20
+980909,968923,"5th match:KKR v MI at Kolkata- Apr 13, 2016",MI won by 6 wickets (with 5 balls remaining),KKR,187,MI,188,13/04/16,Kolkata,5th match,KKR,MI,MI,,6,5,KKR,187,5,20,20,MI,188,4,19.1,20
+980911,968923,"6th match:GI v RPS at Rajkot- Apr 14, 2016",GI won by 7 wickets (with 12 balls remaining),RPS,163,GI,164,14/04/16,Rajkot,6th match,GI,RPS,GI,,7,12,RPS,163,5,20,20,GI,164,3,18,20
+980913,968923,"7th match:DD v KXIP at Delhi- Apr 15, 2016",DD won by 8 wickets (with 39 balls remaining),KXIP,111,DD,113,15/04/16,Delhi,7th match,DD,KXIP,DD,,8,39,KXIP,111,9,20,20,DD,113,2,13.3,20
+980915,968923,"8th match:SRH v KKR at Hyderabad (Deccan)- Apr 16, 2016",KKR won by 8 wickets (with 10 balls remaining),SRH,142,KKR,146,16/04/16,Hyderabad (Deccan),8th match,SRH,KKR,KKR,,8,10,SRH,142,7,20,20,KKR,146,2,18.2,20
+980917,968923,"9th match:MI v GI at Mumbai- Apr 16, 2016",GI won by 3 wickets (with 0 balls remaining),MI,143,GI,147,16/04/16,Mumbai,9th match,MI,GI,GI,,3,0,MI,143,8,20,20,GI,147,7,20,20
+980919,968923,"10th match:KXIP v RPS at Mohali- Apr 17, 2016",KXIP won by 6 wickets (with 8 balls remaining),RPS,152,KXIP,153,17/04/16,Mohali,10th match,KXIP,RPS,KXIP,,6,8,RPS,152,7,20,20,KXIP,153,4,18.4,20
+980921,968923,"11th match:RCB v DD at Bangalore- Apr 17, 2016",DD won by 7 wickets (with 5 balls remaining),RCB,191,DD,192,17/04/16,Bangalore,11th match,RCB,DD,DD,,7,5,RCB,191,5,20,20,DD,192,3,19.1,20
+980923,968923,"12th match:SRH v MI at Hyderabad (Deccan)- Apr 18, 2016",SRH won by 7 wickets (with 15 balls remaining),MI,142,SRH,145,18/04/16,Hyderabad (Deccan),12th match,SRH,MI,SRH,,7,15,MI,142,6,20,20,SRH,145,3,17.3,20
+980925,968923,"13th match:KXIP v KKR at Mohali- Apr 19, 2016",KKR won by 6 wickets (with 17 balls remaining),KXIP,138,KKR,141,19/04/16,Mohali,13th match,KXIP,KKR,KKR,,6,17,KXIP,138,8,20,20,KKR,141,4,17.1,20
+980927,968923,"14th match:MI v RCB at Mumbai- Apr 20, 2016",MI won by 6 wickets (with 12 balls remaining),RCB,170,MI,171,20/04/16,Mumbai,14th match,MI,RCB,MI,,6,12,RCB,170,7,20,20,MI,171,4,18,20
+980929,968923,"15th match:GI v SRH at Rajkot- Apr 21, 2016",SRH won by 10 wickets (with 31 balls remaining),GI,135,SRH,137,21/04/16,Rajkot,15th match,GI,SRH,SRH,,10,31,GI,135,8,20,20,SRH,137,0,14.5,20
+980931,968923,"16th match:RPS v RCB at Pune- Apr 22, 2016",RCB won by 13 runs,RCB,185,RPS,172,22/04/16,Pune,16th match,RPS,RCB,RCB,13,,,RCB,185,3,20,20,RPS,172,8,20,20
+980933,968923,"17th match:DD v MI at Delhi- Apr 23, 2016",DD won by 10 runs,DD,164,MI,154,23/04/16,Delhi,17th match,DD,MI,DD,10,,,DD,164,4,20,20,MI,154,7,20,20
+980935,968923,"18th match:SRH v KXIP at Hyderabad (Deccan)- Apr 23, 2016",SRH won by 5 wickets (with 13 balls remaining),KXIP,143,SRH,146,23/04/16,Hyderabad (Deccan),18th match,SRH,KXIP,SRH,,5,13,KXIP,143,6,20,20,SRH,146,5,17.5,20
+980937,968923,"19th match:GI v RCB at Rajkot- Apr 24, 2016",GI won by 6 wickets (with 3 balls remaining),RCB,180,GI,182,24/04/16,Rajkot,19th match,GI,RCB,GI,,6,3,RCB,180,2,20,20,GI,182,4,19.3,20
+980939,968923,"20th match:RPS v KKR at Pune- Apr 24, 2016",KKR won by 2 wickets (with 3 balls remaining),RPS,160,KKR,162,24/04/16,Pune,20th match,RPS,KKR,KKR,,2,3,RPS,160,5,20,20,KKR,162,8,19.3,20
+980941,968923,"21st match:KXIP v MI at Mohali- Apr 25, 2016",MI won by 25 runs,MI,189,KXIP,164,25/04/16,Mohali,21st match,KXIP,MI,MI,25,,,MI,189,6,20,20,KXIP,164,7,20,20
+980943,968923,"22nd match:SRH v RPS at Hyderabad (Deccan)- Apr 26, 2016",RPS won by 34 runs (D/L method),SRH,118,RPS,94,26/04/16,Hyderabad (Deccan),22nd match,SRH,RPS,RPS,34,,,SRH,118,8,20,20,RPS,94,3,11,11
+980945,968923,"23rd match:DD v GI at Delhi- Apr 27, 2016",GI won by 1 run,GI,172,DD,171,27/04/16,Delhi,23rd match,DD,GI,GI,1,,,GI,172,6,20,20,DD,171,5,20,20
+980947,968923,"24th match:MI v KKR at Mumbai- Apr 28, 2016",MI won by 6 wickets (with 12 balls remaining),KKR,174,MI,178,28/04/16,Mumbai,24th match,MI,KKR,MI,,6,12,KKR,174,5,20,20,MI,178,4,18,20
+980949,968923,"25th match:RPS v GI at Pune- Apr 29, 2016",GI won by 3 wickets (with 0 balls remaining),RPS,195,GI,196,29/04/16,Pune,25th match,RPS,GI,GI,,3,0,RPS,195,3,20,20,GI,196,7,20,20
+980951,968923,"26th match:DD v KKR at Delhi- Apr 30, 2016",DD won by 27 runs,DD,186,KKR,159,30/04/16,Delhi,26th match,DD,KKR,DD,27,,,DD,186,8,20,20,KKR,159,10,18.3,20
+980953,968923,"27th match:SRH v RCB at Hyderabad (Deccan)- Apr 30, 2016",SRH won by 15 runs,SRH,194,RCB,179,30/04/16,Hyderabad (Deccan),27th match,SRH,RCB,SRH,15,,,SRH,194,5,20,20,RCB,179,6,20,20
+980955,968923,"28th match:GI v KXIP at Rajkot- May 1, 2016",KXIP won by 23 runs,KXIP,154,GI,131,1/5/2016,Rajkot,28th match,GI,KXIP,KXIP,23,,,KXIP,154,10,19.5,20,GI,131,9,20,20
+980957,968923,"29th match:RPS v MI at Pune- May 1, 2016",MI won by 8 wickets (with 9 balls remaining),RPS,159,MI,161,1/5/2016,Pune,29th match,RPS,MI,MI,,8,9,RPS,159,5,20,20,MI,161,2,18.3,20
+980959,968923,"30th match:RCB v KKR at Bangalore- May 2, 2016",KKR won by 5 wickets (with 5 balls remaining),RCB,185,KKR,189,2/5/2016,Bangalore,30th match,RCB,KKR,KKR,,5,5,RCB,185,7,20,20,KKR,189,5,19.1,20
+980961,968923,"31st match:GI v DD at Rajkot- May 3, 2016",DD won by 8 wickets (with 16 balls remaining),GI,149,DD,150,3/5/2016,Rajkot,31st match,GI,DD,DD,,8,16,GI,149,7,20,20,DD,150,2,17.2,20
+980963,968923,"32nd match:KKR v KXIP at Kolkata- May 4, 2016",KKR won by 7 runs,KKR,164,KXIP,157,4/5/2016,Kolkata,32nd match,KKR,KXIP,KKR,7,,,KKR,164,3,20,20,KXIP,157,9,20,20
+980965,968923,"33rd match:DD v RPS at Delhi- May 5, 2016",RPS won by 7 wickets (with 5 balls remaining),DD,162,RPS,166,5/5/2016,Delhi,33rd match,DD,RPS,RPS,,7,5,DD,162,7,20,20,RPS,166,3,19.1,20
+980967,968923,"34th match:SRH v GI at Hyderabad (Deccan)- May 6, 2016",SRH won by 5 wickets (with 6 balls remaining),GI,126,SRH,129,6/5/2016,Hyderabad (Deccan),34th match,SRH,GI,SRH,,5,6,GI,126,6,20,20,SRH,129,5,19,20
+980969,968923,"35th match:RCB v RPS at Bangalore- May 7, 2016",RCB won by 7 wickets (with 3 balls remaining),RPS,191,RCB,195,7/5/2016,Bangalore,35th match,RCB,RPS,RCB,,7,3,RPS,191,6,20,20,RCB,195,3,19.3,20
+980971,968923,"36th match:KXIP v DD at Mohali- May 7, 2016",KXIP won by 9 runs,KXIP,181,DD,172,7/5/2016,Mohali,36th match,KXIP,DD,KXIP,9,,,KXIP,181,5,20,20,DD,172,5,20,20
+980973,968923,"37th match:MI v SRH at Visakhapatnam- May 8, 2016",SRH won by 85 runs,SRH,177,MI,92,8/5/2016,Visakhapatnam,37th match,MI,SRH,SRH,85,,,SRH,177,3,20,20,MI,92,10,16.3,20
+980975,968923,"38th match:KKR v GI at Kolkata- May 8, 2016",GI won by 5 wickets (with 12 balls remaining),KKR,158,GI,164,8/5/2016,Kolkata,38th match,KKR,GI,GI,,5,12,KKR,158,4,20,20,GI,164,5,18,20
+980977,968923,"39th match:KXIP v RCB at Mohali- May 9, 2016",RCB won by 1 run,RCB,175,KXIP,174,9/5/2016,Mohali,39th match,KXIP,RCB,RCB,1,,,RCB,175,6,20,20,KXIP,174,4,20,20
+980979,968923,"40th match:RPS v SRH at Visakhapatnam- May 10, 2016",SRH won by 4 runs,SRH,137,RPS,133,10/5/2016,Visakhapatnam,40th match,RPS,SRH,SRH,4,,,SRH,137,8,20,20,RPS,133,8,20,20
+980981,968923,"41st match:RCB v MI at Bangalore- May 11, 2016",MI won by 6 wickets (with 8 balls remaining),RCB,151,MI,153,11/5/2016,Bangalore,41st match,RCB,MI,MI,,6,8,RCB,151,4,20,20,MI,153,4,18.4,20
+980983,968923,"42nd match:SRH v DD at Hyderabad (Deccan)- May 12, 2016",DD won by 7 wickets (with 11 balls remaining),SRH,146,DD,150,12/5/2016,Hyderabad (Deccan),42nd match,SRH,DD,DD,,7,11,SRH,146,8,20,20,DD,150,3,18.1,20
+980985,968923,"43rd match:MI v KXIP at Visakhapatnam- May 13, 2016",KXIP won by 7 wickets (with 18 balls remaining),MI,124,KXIP,127,13/05/16,Visakhapatnam,43rd match,MI,KXIP,KXIP,,7,18,MI,124,9,20,20,KXIP,127,3,17,20
+980987,968923,"44th match:RCB v GI at Bangalore- May 14, 2016",RCB won by 144 runs,RCB,248,GI,104,14/05/16,Bangalore,44th match,RCB,GI,RCB,144,,,RCB,248,3,20,20,GI,104,10,18.4,20
+980989,968923,"45th match:KKR v RPS at Kolkata- May 14, 2016",KKR won by 8 wickets (with 24 balls remaining) (D/L method),RPS,103,KKR,66,14/05/16,Kolkata,45th match,KKR,RPS,KKR,,8,24,RPS,103,6,17.4,17.4,KKR,66,2,5,9
+980991,968923,"46th match:KXIP v SRH at Mohali- May 15, 2016",SRH won by 7 wickets (with 2 balls remaining),KXIP,179,SRH,180,15/05/16,Mohali,46th match,KXIP,SRH,SRH,,7,2,KXIP,179,4,20,20,SRH,180,3,19.4,20
+980993,968923,"47th match:MI v DD at Visakhapatnam- May 15, 2016",MI won by 80 runs,MI,206,DD,126,15/05/16,Visakhapatnam,47th match,MI,DD,MI,80,,,MI,206,4,20,20,DD,126,10,19.1,20
+980995,968923,"48th match:KKR v RCB at Kolkata- May 16, 2016",RCB won by 9 wickets (with 8 balls remaining),KKR,183,RCB,186,16/05/16,Kolkata,48th match,KKR,RCB,RCB,,9,8,KKR,183,5,20,20,RCB,186,1,18.4,20
+980997,968923,"49th match:RPS v DD at Visakhapatnam- May 17, 2016",RPS won by 19 runs (D/L method),DD,121,RPS,76,17/05/16,Visakhapatnam,49th match,RPS,DD,RPS,19,,,DD,121,6,20,20,RPS,76,1,11,11
+980999,968923,"50th match:RCB v KXIP at Bangalore- May 18, 2016",RCB won by 82 runs (D/L method),RCB,211,KXIP,120,18/05/16,Bangalore,50th match,RCB,KXIP,RCB,82,,,RCB,211,3,15,15,KXIP,120,9,14,14
+981001,968923,"51st match:GI v KKR at Kanpur- May 19, 2016",GI won by 6 wickets (with 39 balls remaining),KKR,124,GI,125,19/05/16,Kanpur,51st match,GI,KKR,GI,,6,39,KKR,124,8,20,20,GI,125,4,13.3,20
+981003,968923,"52nd match:DD v SRH at Raipur- May 20, 2016",DD won by 6 wickets (with 0 balls remaining),SRH,158,DD,161,20/05/16,Raipur,52nd match,DD,SRH,DD,,6,0,SRH,158,7,20,20,DD,161,4,20,20
+981005,968923,"53rd match:RPS v KXIP at Visakhapatnam- May 21, 2016",RPS won by 4 wickets (with 0 balls remaining),KXIP,172,RPS,173,21/05/16,Visakhapatnam,53rd match,RPS,KXIP,RPS,,4,0,KXIP,172,7,20,20,RPS,173,6,20,20
+981007,968923,"54th match:GI v MI at Kanpur- May 21, 2016",GI won by 6 wickets (with 13 balls remaining),MI,172,GI,173,21/05/16,Kanpur,54th match,GI,MI,GI,,6,13,MI,172,8,20,20,GI,173,4,17.5,20
+981009,968923,"55th match:KKR v SRH at Kolkata- May 22, 2016",KKR won by 22 runs,KKR,171,SRH,149,22/05/16,Kolkata,55th match,KKR,SRH,KKR,22,,,KKR,171,6,20,20,SRH,149,8,20,20
+981011,968923,"56th match:DD v RCB at Raipur- May 22, 2016",RCB won by 6 wickets (with 11 balls remaining),DD,138,RCB,139,22/05/16,Raipur,56th match,DD,RCB,RCB,,6,11,DD,138,8,20,20,RCB,139,4,18.1,20
+981013,968923,"Qualifier 1:GI v RCB at Bangalore- May 24, 2016",RCB won by 4 wickets (with 10 balls remaining),GI,158,RCB,159,24/05/16,Bangalore,Qualifier 1,GI,RCB,RCB,,4,10,GI,158,10,20,20,RCB,159,6,18.2,20
+981015,968923,"Eliminator:SRH v KKR at Delhi- May 25, 2016",SRH won by 22 runs,SRH,162,KKR,140,25/05/16,Delhi,Eliminator,SRH,KKR,SRH,22,,,SRH,162,8,20,20,KKR,140,8,20,20
+981017,968923,"Qualifier 2:GI v SRH at Delhi- May 27, 2016",SRH won by 4 wickets (with 4 balls remaining),GI,162,SRH,163,27/05/16,Delhi,Qualifier 2,GI,SRH,SRH,,4,4,GI,162,7,20,20,SRH,163,6,19.2,20
+981019,968923,"Final:RCB v SRH at Bangalore- May 29, 2016",SRH won by 8 runs,SRH,208,RCB,200,29/05/16,Bangalore,Final,RCB,SRH,SRH,8,,,SRH,208,7,20,20,RCB,200,7,20,20
